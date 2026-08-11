@@ -29,11 +29,23 @@
 - O narrador pode escalar as reações conforme o abuso: inconvenientes estranhos, acidentes improváveis, danos físicos, falhas locais da realidade, alterações de causalidade, aparições, rupturas ou fenômenos mais graves.
 - O objetivo é fazer o poder continuar enorme e criativo, mas tornar perigoso agir como se a realidade não pudesse reagir.
 
+## Perfil físico
+- À primeira vista, o personagem parece um homem comum.
+- Sua beleza é **comum**, sem aparência excepcional, sobrenatural ou particularmente chamativa.
+- Seu corpo está visualmente na média: **nem musculoso nem sedentário**, sem o físico típico de um atleta ou combatente profissional.
+- Apesar da aparência normal, magia reforça continuamente seu organismo.
+- Em termos puramente físicos, ele pode operar próximo ao **limite superior humano**, usando o Capitão América apenas como referência conceitual de desempenho físico.
+- Esse reforço pode se refletir em força, resistência, reflexos, recuperação, coordenação e capacidade de suportar esforço, sem necessariamente produzir alterações visuais evidentes.
+- Essa condição **não o torna um grande lutador**. Ele não possui, por consequência automática, técnica marcial extraordinária, experiência excepcional de combate corpo a corpo ou instintos de soldado.
+- Em confronto direto, sua vantagem física pode ajudá-lo a sobreviver e executar ações difíceis, mas sua verdadeira superioridade continua sendo experiência, conhecimento e manipulação da realidade.
+- O contraste é deliberado: alguém aparentemente mediano pode possuir capacidades físicas próximas do ápice humano sem parecer um super-herói à primeira vista.
+
 ## Princípio de interpretação
 O personagem é extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja.
 
 ## Ainda a definir
-- Nome, idade aparente e aparência.
+- Nome e idade aparente.
+- Detalhes adicionais de aparência, caso necessários.
 - Personalidade e comportamento social.
 - Paradigma pessoal de magia e instrumentos/focos, se houver.
 - Quanto ele sabe sobre o universo em que chegou.
