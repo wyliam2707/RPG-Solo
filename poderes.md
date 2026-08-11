@@ -25,6 +25,7 @@
 - Um efeito é **vulgar** quando ultrapassa até aquilo que este universo extraordinário — ou o contexto local em que a cena ocorre — costuma aceitar com relativa naturalidade.
 - Não basta ser visível ou sobrenatural; precisa representar uma distorção grande, extrema ou profundamente invasiva da realidade.
 - Exemplos gerais: teleportar um prédio inteiro, trazer alguém genuinamente de volta à vida, reescrever em larga escala a matéria, a causalidade, o espaço, o tempo ou outra estrutura fundamental da realidade.
+- **Ignorar deliberadamente todas as barreiras, proteções, limitações ou regras que deveriam governar um efeito também é vulgar.** Nesse caso, o personagem não está apenas usando magia: está impondo à realidade que as restrições existentes deixem de valer para ele.
 - Magia vulgar chama muito mais atenção da própria realidade e é o principal terreno para reações fortes de Paradoxo.
 - O narrador deve avaliar escala, profundidade da alteração, contexto, repetição e consequências, e não apenas o aspecto visual do efeito.
 
@@ -36,10 +37,12 @@
 - Isso não significa que qualquer ação seja automaticamente bem-sucedida. Kamar-Taj pode possuir barreiras, selos, proteções, guardiões ou contramedidas capazes de bloquear, detectar, redirecionar ou contestar magia.
 - Essas proteções são **resistência mágica do local**, não uma reação de Paradoxo.
 - Portanto, abrir um portal diretamente para Kamar-Taj é um efeito **aberto**, não vulgar. O portal pode funcionar normalmente do ponto de vista da realidade e ainda assim encontrar defesas próprias do santuário.
+- Porém, declarar que o portal **ignora todas as defesas, selos, regras e restrições de Kamar-Taj e simplesmente funciona** transforma a ação em **vulgar**, porque a magia está sobrescrevendo as regras do lugar em vez de enfrentá-las.
 - Mesmo em um local extremamente permissivo, alterações estruturais profundas — como reescrever a história do lugar, ressuscitar mortos sem equivalente aceitável, deslocar todo o santuário para outro continente ou destruir causalidade em larga escala — ainda podem ser vulgares.
 
 ## Regra de leitura do narrador
 - Se o jogador descreve apenas o **resultado desejado**, o narrador deve assumir a forma menos ostensiva compatível com a intenção.
 - Se a descrição já exige uma manifestação claramente sobrenatural, ela passa a ser **aberta** automaticamente, salvo quando o contexto local permitir interpretá-la de forma ainda mais natural.
 - Se a alteração extrapola até o repertório extraordinário normal do cenário ou do contexto local e força uma mudança estrutural ou absurda da realidade, ela é **vulgar**.
+- Se o jogador exige que um efeito atravesse ou invalide **toda e qualquer resistência relevante sem interação, custo ou contestação**, o narrador deve tratá-lo como vulgar.
 - Em caso de dúvida, o narrador deve favorecer a experiência e o hábito do personagem: ele sempre tenta permanecer na categoria menos agressiva possível sem contrariar o que o jogador declarou que deseja fazer.
