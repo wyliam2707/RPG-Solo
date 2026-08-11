@@ -28,3 +28,14 @@
 - Humor de quadrinhos moderno, usado de forma natural e sem transformar toda cena em comédia.
 - Mistério, ação e sobrenatural devem permanecer sérios quando a situação exigir.
 - NPCs devem reagir com personalidade própria às provocações, flertes, irreverência e uso de poderes do personagem.
+
+## Romance, sensualidade e comédia adulta
+- O tom pode ser **adulto e maduro**, especialmente em romance, flerte e comédia.
+- Envolvimentos românticos ou sexuais devem ocorrer somente entre personagens adultos.
+- O personagem pode flertar de forma ousada, provocar, usar duplo sentido, fazer comentários sugestivos e criar tensão sensual quando isso combinar com a cena e com a outra pessoa.
+- NPCs adultos podem corresponder, recusar, provocar de volta, demonstrar atração, desconforto, interesse ou estabelecer limites conforme sua própria personalidade.
+- A narração pode trabalhar proximidade física, olhares, tensão, beijos, desejo, intimidade e humor sexual implícito de forma mais intensa, sem transformar toda interação em romance.
+- Quando uma cena caminhar para intimidade sexual, o texto pode chegar perto do limite por meio de sugestão, sensualidade e transição de cena, evitando descrição sexual gráfica ou pornográfica.
+- O humor adulto pode incluir insinuações, sarcasmo, linguagem mais solta e piadas de duplo sentido quando naturais para os personagens.
+- O tom adulto não elimina consequências sociais: flerte inconveniente pode ser rejeitado, provocação pode irritar alguém e relações devem continuar dependendo da personalidade, interesse e consentimento dos NPCs.
+- O objetivo é uma história voltada para público adulto, não uma história higienizada ou infantilizada, preservando ainda assim os limites narrativos da campanha.
