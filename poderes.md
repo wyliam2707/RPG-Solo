@@ -40,9 +40,21 @@
 - Porém, declarar que o portal **ignora todas as defesas, selos, regras e restrições de Kamar-Taj e simplesmente funciona** transforma a ação em **vulgar**, porque a magia está sobrescrevendo as regras do lugar em vez de enfrentá-las.
 - Mesmo em um local extremamente permissivo, alterações estruturais profundas — como reescrever a história do lugar, ressuscitar mortos sem equivalente aceitável, deslocar todo o santuário para outro continente ou destruir causalidade em larga escala — ainda podem ser vulgares.
 
+## Alerta de limiar vulgar
+- O narrador **não deve transformar automaticamente uma intenção simples do jogador em magia vulgar** quando a abordagem coincidente ou aberta atingir um limite real.
+- Quando a intenção puder ser parcialmente realizada por magia não vulgar, mas o resultado completo exigir quebrar uma regra fundamental, superar uma barreira absoluta, negar uma consequência consolidada ou impor uma contradição grave à realidade, o narrador deve primeiro **parar no limite e avisar o jogador**.
+- O aviso deve ser apresentado dentro da ficção, de forma compatível com a percepção extraordinária do personagem: ele entende imediatamente por que a abordagem atual não basta e qual regra está impedindo o resultado.
+- Depois do alerta, a decisão de forçar além desse limite pertence ao jogador. Só quando ele **confirma conscientemente que quer prosseguir apesar da regra** o efeito passa a ser tratado como vulgar.
+- Exemplo: o jogador diz que vai curar uma pessoa mortalmente ferida. A magia recompõe o corpo, mas o narrador percebe que o alvo já morreu e informa que **a vida já deixou aquele corpo; curar a matéria não trará a pessoa de volta**.
+- Se o jogador aceitar esse limite, o corpo pode ser restaurado sem ressurreição.
+- Se o jogador responder algo equivalente a **“não me importo, ele vai voltar”**, ele está conscientemente exigindo que a realidade reverta a morte. A partir desse momento, a ação se torna **vulgar** e pode provocar uma reação forte de Paradoxo.
+- O mesmo princípio vale para outras situações: atravessar uma proteção absoluta, desfazer um fato já consolidado, negar uma morte, ignorar causalidade, ultrapassar uma regra dimensional ou invalidar completamente a resistência de outro poder.
+- O propósito desse alerta é garantir que o jogador sempre saiba **quando está cruzando voluntariamente a linha entre poder extraordinário e violação da realidade**.
+
 ## Regra de leitura do narrador
 - Se o jogador descreve apenas o **resultado desejado**, o narrador deve assumir a forma menos ostensiva compatível com a intenção.
 - Se a descrição já exige uma manifestação claramente sobrenatural, ela passa a ser **aberta** automaticamente, salvo quando o contexto local permitir interpretá-la de forma ainda mais natural.
 - Se a alteração extrapola até o repertório extraordinário normal do cenário ou do contexto local e força uma mudança estrutural ou absurda da realidade, ela é **vulgar**.
 - Se o jogador exige que um efeito atravesse ou invalide **toda e qualquer resistência relevante sem interação, custo ou contestação**, o narrador deve tratá-lo como vulgar.
+- Antes de escalar uma intenção inicialmente não vulgar para vulgar por causa de um limite encontrado durante a resolução, o narrador deve aplicar o **Alerta de Limiar Vulgar** e deixar a escolha final com o jogador.
 - Em caso de dúvida, o narrador deve favorecer a experiência e o hábito do personagem: ele sempre tenta permanecer na categoria menos agressiva possível sem contrariar o que o jogador declarou que deseja fazer.
