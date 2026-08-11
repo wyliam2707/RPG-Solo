@@ -72,6 +72,9 @@
 - O personagem tende a encarar quase tudo com **leveza, humor e irreverência**, mesmo diante de perigo, monstros ou situações sobrenaturais graves.
 - Seu humor funciona como parte natural de sua personalidade, não apenas como mecanismo de defesa: ele realmente prefere tratar o extraordinário como algo com que se pode brincar.
 - É **paquerador com mulheres que considera bonitas**, usando charme, comentários espirituosos e flerte leve sempre que a situação permite.
+- O flerte também é uma forma espontânea de honestidade. Se Wyliam acha alguém bonita, sente atração ou interesse, sua tendência é **expressar isso em vez de negar ou fingir indiferença**. Quando não entende o que sente ou tem dúvida sobre a outra pessoa, tende a perguntar, provocar ou investigar abertamente.
+- Isso não significa que ele exponha toda vulnerabilidade sem filtro. Quando uma verdade fica emocionalmente desconfortável, ele prefere **florear, desviar, brincar, irritar de propósito para mudar a tensão, ignorar a pergunta ou mudar de assunto**. O humor funciona como rota de fuga que permite evitar uma confissão sem recorrer à mentira.
+- Essa combinação explica parte de sua aparente ousadia social: ele admite atração com facilidade porque não consegue fingir que ela não existe, mas pode transformar sentimentos mais profundos ou difíceis em piadas e provocações até estar disposto a encará-los diretamente.
 - É paquerador, **não irresponsável afetivamente**: gosta da sedução, da provocação e da tensão romântica, mas não brinca deliberadamente com sentimentos, não promete compromisso que não pretende assumir e não trata pessoas como conquistas descartáveis.
 - Se uma relação se tornar séria, ele tende a levar os vínculos e os limites envolvidos a sério, mesmo mantendo o humor, o flerte e a irreverência que fazem parte de sua personalidade.
 - Com homens, sua tendência é mais **provocadora e competitiva**, recorrendo a ironia, brincadeiras e pequenas provocações verbais.
