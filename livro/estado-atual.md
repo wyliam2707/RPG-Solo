@@ -30,6 +30,10 @@ A aventura ainda não começou. Toda a preparação conceitual necessária está
 - Pequena cidade.
 - O protagonista chegou há pouco tempo a esta realidade e ainda está conhecendo o mundo.
 - Sua chegada deixou uma anomalia mágica/dimensional perceptível.
+- O **Capítulo 1 começa com ele acordando em um hospital da pequena cidade**, após sobreviver à travessia entre realidades.
+- Seu primeiro impulso é perceber que ainda está vivo e tentar descobrir onde foi parar.
+- O hospital serve como primeiro contato orgânico com a nova realidade; detalhes do mundo serão descobertos por observação e interação, sem exposição artificial.
+- Ele mantém inteligência, percepção e experiência mágicas, mas ainda não possui contexto para saber exatamente qual realidade é aquela.
 - A cidade enfrenta seres das trevas ou criaturas sobrenaturais.
 - O protagonista se envolve com o extermínio dessas criaturas enquanto tenta entender a nova realidade.
 - Wanda Maximoff / Feiticeira Escarlate e uma versão adulta de Ravena investigam a anomalia.
@@ -55,7 +59,7 @@ Nenhuma relação foi iniciada. Wanda e Ravena ainda não conheceram o protagoni
 Nenhum.
 
 ## Ponto exato de retomada
-**Pré-Capítulo 1.** A preparação está encerrada. A próxima interação pode definir nome/idade aparente do protagonista ou iniciar diretamente a cena de abertura da pequena cidade.
+**Pré-Capítulo 1.** A próxima cena começa com o protagonista despertando em um hospital de uma pequena cidade após a travessia entre realidades, consciente de que sobreviveu, mas sem saber ainda onde está.
 
 ## Regra de atualização
 Ao concluir cada capítulo, substituir este arquivo por um estado atualizado que preserve o essencial da campanha e termine sempre com o ponto exato onde a narração deve continuar.
