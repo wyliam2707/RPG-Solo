@@ -48,8 +48,6 @@
 - Essas limitações **não diminuem o nível de poder do personagem**; elas são as regras pelas quais aquele efeito continua existindo sem precisar sobrescrever a realidade de maneira vulgar.
 - Quando uma dessas condições impedir a ação, o narrador **não deve automaticamente superar o obstáculo em nome do poder do personagem** e também não deve transformar silenciosamente a ação em vulgar.
 - O efeito deve parar no ponto em que encontra a limitação. O narrador então descreve ao jogador, pela percepção extraordinária do personagem, **o que interrompeu a magia e por quê**.
-- Exemplo: ao tentar abrir um portal para um lugar desconhecido, o personagem pode sentir que não possui uma referência espacial suficiente para fixar a passagem.
-- Exemplo: ao tentar teleportar para um santuário protegido, ele pode perceber que a conexão se forma normalmente até encontrar uma barreira que recusa a passagem.
 - Depois dessa informação, o jogador decide como lidar com o obstáculo: buscar outra âncora, estudar a proteção, contorná-la, quebrá-la por meios compatíveis com as regras, mudar de estratégia ou conscientemente tentar sobrescrever a limitação.
 - Somente a última opção — exigir que a restrição deixe de importar apenas porque sua vontade assim determina — cruza o limiar para magia vulgar.
 
@@ -62,8 +60,22 @@
 - Exemplo: o jogador diz que vai curar uma pessoa mortalmente ferida. A magia recompõe o corpo, mas o narrador percebe que o alvo já morreu e informa que **a vida já deixou aquele corpo; curar a matéria não trará a pessoa de volta**.
 - Se o jogador aceitar esse limite, o corpo pode ser restaurado sem ressurreição.
 - Se o jogador responder algo equivalente a **“não me importo, ele vai voltar”**, ele está conscientemente exigindo que a realidade reverta a morte. A partir desse momento, a ação se torna **vulgar** e pode provocar uma reação forte de Paradoxo.
-- O mesmo princípio vale para outras situações: atravessar uma proteção absoluta, desfazer um fato já consolidado, negar uma morte, ignorar causalidade, ultrapassar uma regra dimensional ou invalidar completamente a resistência de outro poder.
 - O propósito desse alerta é garantir que o jogador sempre saiba **quando está cruzando voluntariamente a linha entre poder extraordinário e violação da realidade**.
+
+## Tratamento narrativo do Paradoxo
+- **Magia coincidente/velada:** normalmente não gera reação de Paradoxo relevante. É a forma natural e habitual de operar do personagem, encaixando sua vontade dentro de acontecimentos que a realidade já poderia aceitar.
+- **Magia aberta:** normalmente também não gera Paradoxo relevante apenas por ser visível. Neste universo, raios de energia, telecinese, invisibilidade, portais e fenômenos semelhantes podem ser atribuídos a mutantes, meta-humanos, tecnologia ou magos como os de Kamar-Taj.
+- Magia aberta ainda precisa respeitar condições, barreiras e resistências. Forçá-la a se tornar absoluta pode levá-la ao limiar vulgar.
+- **Magia vulgar:** é a fonte real de Paradoxo. Ela não apenas manifesta poder; obriga a realidade a aceitar uma exceção, negar uma regra consolidada ou suportar uma alteração estrutural que não consegue explicar normalmente.
+- O Paradoxo não será tratado como pontos, barra, mana negativa ou teste numérico. O narrador mantém apenas uma avaliação qualitativa e narrativa da tensão provocada pelas distorções vulgares.
+- A intensidade da reação considera principalmente: **escala do efeito, profundidade da regra violada, quantidade de coisas afetadas, repetição de vulgaridades em pouco tempo e quanto a ação exige que a realidade se contradiga**.
+- Uma única vulgaridade limitada pode produzir apenas uma reação curta e localizada. Vulgaridades enormes ou sucessivas podem fazer a realidade tornar-se progressivamente mais hostil e instável ao redor do personagem.
+- Como regra geral, **a magia vulgar pode funcionar e ainda assim provocar Paradoxo**. O Paradoxo não deve ser usado simplesmente como desculpa para dizer que o poder falhou.
+- A reação deve ocorrer durante ou logo após a distorção e ser **rápida, física, perceptível e capaz de mover a história**: danos ao personagem, falhas espaciais, alterações de causalidade, efeitos colaterais materiais, fenômenos impossíveis, algo atravessando junto, uma entidade percebendo a ruptura ou outra consequência ligada à natureza do que foi forçado.
+- A consequência deve guardar relação temática com a violação. Ressuscitar alguém pode perturbar a fronteira da morte; forçar espaço pode ferir ou deformar o espaço; reescrever causalidade pode fazer coincidências e consequências se reorganizarem de maneira perigosa.
+- O Paradoxo **não precisa desfazer o efeito principal**. Se o personagem decidiu conscientemente pagar o preço de uma vulgaridade, o mais interessante em geral é permitir que sua vontade deixe uma marca real no mundo e fazer a realidade cobrar essa marca de outra forma.
+- Em casos extremos, quando a distorção for colossal ou quando o personagem insistir repetidamente em ignorar toda reação anterior, o próprio efeito pode se tornar instável, parcial ou ameaçado pela resposta da realidade.
+- O personagem, por sua experiência, pode perceber sinais de que está levando a realidade perto demais do limite, mas o narrador não deve transformar isso em um medidor explícito.
 
 ## Regra de leitura do narrador
 - Se o jogador descreve apenas o **resultado desejado**, o narrador deve assumir a forma menos ostensiva compatível com a intenção.
