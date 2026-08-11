@@ -1,5 +1,10 @@
 # Personagem — Base Conceitual
 
+## Identidade estabelecida em jogo
+- Nome: **Wyliam D. Costa**.
+- Ele se identifica como brasileiro e fez referência a CPF e à necessidade de reconstruir documentos/conta bancária no novo mundo.
+- A idade aparente continua em aberto.
+
 ## Origem
 - O personagem vem de outra realidade/universo.
 - Nessa realidade, ele era um mago de nível máximo, descrito pelo jogador como **Gnose 10**.
@@ -86,10 +91,9 @@
 O personagem é extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja. Socialmente, ele tende a enfrentar o absurdo com inteligência, humor, flerte e irreverência. Seu principal combustível é a curiosidade; sua consciência é flexível, mas existe. Ele prefere parecer um mercenário cínico a admitir qualquer vocação heroica, mesmo quando suas escolhas repetidamente desmentem o discurso.
 
 ## Ainda a definir
-- Nome e idade aparente.
+- Idade aparente.
 - Detalhes adicionais de aparência, caso necessários.
 - Paradigma pessoal de magia e instrumentos/focos, se houver.
-- Quanto ele sabe sobre o universo em que chegou.
-- Há quanto tempo está neste mundo.
-- Relações, recursos e vida atual.
+- Quanto ele sabe sobre o universo em que chegou além do que já descobriu em jogo.
+- Relações e recursos de longo prazo nesta realidade.
 - O evento exato de Paradoxo que o expulsou de sua realidade.
