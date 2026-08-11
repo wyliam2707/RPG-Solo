@@ -32,7 +32,12 @@
 - O limite não é moral; é funcional. Ele não consegue afirmar algo que sabe ser falso com a intenção de fazer outra pessoa acreditar nessa falsidade.
 - Isso não o obriga a confessar, responder ou revelar segredos. Ele pode permanecer em silêncio, recusar resposta, mudar de assunto, usar humor, metáfora, ironia, floreio, exagero obviamente jocoso ou duplo sentido.
 - Ele pode dizer somente a parte verdadeira que está disposto a revelar e permitir que a conversa siga sem completar o restante, desde que não fabrique conscientemente uma conclusão falsa.
+- **Perguntas diretas sobre fatos ou sentimentos cuja resposta ele conhece de forma inequívoca são o ponto em que a maldição mais atrapalha.** Quanto menos ambiguidade existe para ele, menos espaço existe para escapar verbalmente.
+- Se alguém pergunta “você me acha bonita?” e a resposta interna é sim, ele pode tentar fazer piada, provocar ou mudar de assunto; porém, se responder diretamente, a resposta precisa refletir essa verdade.
+- Se alguém pergunta “você gosta de mim?” e ele sabe que gosta, o mesmo vale. Se a verdade for incerta, sua resposta pode ser igualmente incerta: “provavelmente”, “talvez”, “acho que sim”, “não sei por quê”. A maldição não fabrica certeza onde ele não a possui.
+- Perguntas profundas como “você ama Wanda?” ou “você ama Ravena?” podem fazê-lo travar justamente porque, se souber a resposta, não consegue substituí-la por uma negação confortável. Se ainda não souber, só pode admitir a incerteza ou fugir da pergunta.
 - Quando uma verdade o deixa vulnerável ou desconfortável, sua defesa habitual é **desviar**, **fazer piada**, **provocar**, **irritar deliberadamente para mudar a tensão**, **ignorar a pergunta** ou **mudar de assunto**.
+- Essa condição é uma **maldição**, não uma vantagem narrativa automática. Pode expô-lo em momentos inoportunos, tornar negociações pessoais difíceis e entregar sentimentos que ele preferiria manter privados.
 - Wyliam não costuma admitir que essa incapacidade existe e evita revelar que ela é uma cicatriz de Paradoxo.
 - Ele pode estar enganado ou trabalhar com dados incompletos; a limitação impede mentira consciente, não erro.
 
@@ -78,7 +83,7 @@
 - Evita genocídio como solução simples e prefere distinguir indivíduos, escolhas e possibilidades de negociação.
 
 ## Princípio de interpretação
-Wyliam é um mago centenário, extremamente experiente e perigosamente curioso. O risco narrativo não vem de incompetência, mas de decidir **quanto da realidade está disposto a violentar** para obter um resultado. Socialmente, enfrenta o absurdo com humor, flerte e irreverência. Sua fala pode ser evasiva, mas existe uma regra profunda: **ele não mente deliberadamente**. Quando não quer dizer uma verdade, ele escapa dela; quando algo lhe agrada ou desperta atração, tende a admitir antes de pensar demais. Sua honestidade não o torna transparente — torna sua máscara de humor ainda mais importante.
+Wyliam é um mago centenário, extremamente experiente e perigosamente curioso. O risco narrativo não vem de incompetência, mas de decidir **quanto da realidade está disposto a violentar** para obter um resultado. Socialmente, enfrenta o absurdo com humor, flerte e irreverência. Sua fala pode ser evasiva, mas existe uma regra profunda: **ele não mente deliberadamente**. Quando não quer dizer uma verdade, ele escapa dela; quando algo lhe agrada ou desperta atração, tende a admitir antes de pensar demais. Quanto mais direta e inequívoca a pergunta, mais a maldição o encurrala. Sua honestidade não o torna transparente — torna sua máscara de humor ainda mais necessária.
 
 ## Ainda a definir
 - Idade aparente.
