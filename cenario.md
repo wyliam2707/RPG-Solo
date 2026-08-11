@@ -60,6 +60,30 @@ Se um personagem estiver vivo nesta realidade, então está vivo independentemen
 
 A continuidade estabelecida durante esta campanha tem prioridade sobre qualquer material externo.
 
+## Eixo relacional — dualidade mágica
+Duas figuras mágicas podem ocupar um papel central na abertura e no desenvolvimento emocional da campanha: **Wanda Maximoff / Feiticeira Escarlate** e uma **versão inequivocamente adulta de Ravena**.
+
+O personagem do jogador não deve enxergá-las apenas como mulheres poderosas ou interesses românticos. O que o fascina é a **dualidade** entre elas e a beleza de duas formas muito diferentes de existir dentro da magia.
+
+- Wanda pode representar, dependendo do momento, intensidade, impulso, transformação, caos, calor e uma relação mais visceral com aquilo que a realidade pode se tornar.
+- Ravena pode representar contenção, disciplina, introspecção, silêncio, trevas controladas, frieza aparente e o esforço constante de dominar aquilo que existe dentro dela.
+- Essa oposição pode ser percebida pelo protagonista quase como **fogo e gelo, caos e ordem, expansão e contenção**.
+- Ele encontra beleza não apenas na aparência das duas, mas na maneira como suas filosofias, poderes e personalidades se contradizem e se completam.
+
+Por ser naturalmente irreverente e paquerador, ele dificilmente resiste a provocar, insinuar, brincar com essa oposição e testar verbalmente as duas, especialmente quando percebe que ambas estão acostumadas a ser tratadas com cautela excessiva.
+
+Um ponto importante para o vínculo é que o protagonista **não reage com medo automático ao potencial destrutivo delas**. Ele pode compreender perfeitamente o perigo que representam e ainda assim conversar, provocar, discutir ou flertar sem tratá-las como bombas prestes a explodir.
+
+Isso pode ser estranho e, com o tempo, valioso para ambas. Pessoas ao redor delas podem frequentemente enxergar primeiro o risco, a profecia, a corrupção, o caos, a herança demoníaca ou a possibilidade de desastre. O protagonista, por já ter vivido no limite da própria realidade e carregado seu próprio potencial de destruição, pode enxergar primeiro **a pessoa**.
+
+Essa ausência de julgamento não significa complacência. Ele pode discordar delas, confrontar escolhas perigosas e reconhecer quando algo saiu do controle. A diferença é que não reduz nenhuma das duas ao pior cenário possível de seus poderes.
+
+Essa dinâmica permite que os traumas e conflitos pessoais de ambas surjam como **subtramas graduais**, em vez de exposições imediatas. Confiança deve ser construída em cenas, conversas, riscos compartilhados, provocações, falhas e momentos de vulnerabilidade.
+
+A aproximação romântica não é garantida nem automática. Wanda e Ravena continuam sendo personagens com vontade própria, limites, desejos, inseguranças e decisões independentes. Caso surja uma relação com uma ou com ambas, ela deve crescer organicamente a partir da confiança e da química desenvolvidas durante a aventura.
+
+O protagonista é paquerador, mas não irresponsável afetivamente. A possibilidade de uma relação múltipla pode existir dentro da fanfic, porém somente como consequência de vínculos reais, transparência, consentimento e compatibilidade entre todos — nunca como prêmio automático ao protagonista.
+
 ## Foco narrativo
 Os grandes heróis existem, mas o mundo não gira ao redor deles.
 
@@ -77,14 +101,17 @@ O personagem do jogador não precisa começar entre as figuras mais poderosas ou
 - Não revelar ao jogador informações que seu personagem não poderia saber apenas porque pertencem ao cânone de alguma franquia.
 - Permitir soluções criativas baseadas em tecnologia moderna, investigação, contatos, internet, transporte, autoridades e infraestrutura urbana quando forem plausíveis.
 - O tom pode transitar entre aventura de super-heróis, fantasia urbana, drama pessoal, investigação, ação e mistério conforme a história exigir.
+- Tratar Wanda e Ravena como personagens completas e independentes, não como acessórios românticos do protagonista.
+- Usar a dualidade entre suas formas de magia, personalidade e relação com o próprio poder como combustível para tensão, humor, intimidade e subtramas emocionais.
+- Permitir que o fato de o protagonista não temer automaticamente o potencial destrutivo delas se torne algo percebido aos poucos, sem transformar isso em confiança instantânea.
 
 ## Pontos ainda em aberto
 - Cidade ou região principal da aventura.
 - História específica desta Terra e quais grandes eventos ocorreram antes de 2026.
 - Situação política e social atual dos mutantes e outros super-humanos.
-- Quais personagens e organizações conhecidas existem ou serão relevantes.
+- Quais personagens e organizações conhecidas existem ou serão relevantes além dos já estabelecidos.
 - Base narrativa, origem e capacidades do personagem do jogador.
-- Estilo exato de narração da campanha.
+- Detalhes concretos da investigação inicial e da anomalia, mantidos ocultos do jogador durante a preparação para evitar spoilers.
 
 ---
 Este documento é uma referência de cenário para o narrador. Deve ser atualizado quando novas decisões sobre o universo forem consolidadas.
