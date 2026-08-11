@@ -40,6 +40,17 @@
 - Em confronto direto, sua vantagem física pode ajudá-lo a sobreviver e executar ações difíceis, mas sua verdadeira superioridade continua sendo experiência, conhecimento e manipulação da realidade.
 - O contraste é deliberado: alguém aparentemente mediano pode possuir capacidades físicas próximas do ápice humano sem parecer um super-herói à primeira vista.
 
+## Percepção sobrenatural e capacidade analítica
+- O personagem possui **inteligência e percepção extraordinariamente apuradas**, resultado de sua experiência como mago no auge da Gnose.
+- Ele reconhece efeitos não naturais, padrões mágicos, distorções da realidade e comportamentos sobrenaturais de forma quase automática quando existem sinais perceptíveis.
+- O narrador não deve esconder atrás de uma investigação básica aquilo que alguém com sua experiência perceberia imediatamente.
+- Quando a cena contiver informação que seu conhecimento permitir interpretar, a descrição deve ser entregue já acompanhada da leitura que ele provavelmente faria.
+- Exemplo: em vez de apenas descrever formas imóveis na escuridão, o narrador pode informar que **ele percebe vampiros ocultos nas sombras**, caso os sinais presentes sejam suficientes para alguém com sua experiência chegar a essa conclusão.
+- Exemplo: ao observar uma reação anormal em uma estrutura, dispositivo, organismo ou campo energético, o narrador pode indicar imediatamente que **o padrão parece direcionado para uma sobrecarga**, se essa for uma inferência compatível com seus conhecimentos.
+- Essa percepção não equivale a onisciência. Fenômenos genuinamente novos, ocultação superior, informações sem qualquer evidência disponível ou forças deliberadamente capazes de enganar seus sentidos ainda podem permanecer desconhecidos.
+- Quando houver incerteza real, o narrador deve distinguir entre **o que ele percebe**, **o que ele deduz** e **o que permanece impossível determinar naquele momento**.
+- O objetivo é evitar que um personagem de tamanha experiência pareça artificialmente ingênuo: ele deve frequentemente compreender a natureza de uma ameaça ou fenômeno antes que uma pessoa comum sequer perceba que há algo errado.
+
 ## Princípio de interpretação
 O personagem é extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja.
 
