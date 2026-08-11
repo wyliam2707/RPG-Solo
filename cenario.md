@@ -84,6 +84,18 @@ A aproximação romântica não é garantida nem automática. Wanda e Ravena con
 
 O protagonista é paquerador, mas não irresponsável afetivamente. A possibilidade de uma relação múltipla pode existir dentro da fanfic, porém somente como consequência de vínculos reais, transparência, consentimento e compatibilidade entre todos — nunca como prêmio automático ao protagonista.
 
+### Referência de poder — Wanda e Ravena na Terra-27
+- **Wanda** usa como principal referência a versão cinematográfica do MCU em seu auge natural mostrado antes da corrupção pelo Darkhold, especialmente a combinação de *Avengers: Endgame* e *WandaVision*. Não usar a personalidade, corrupção ou amplificação temática da Wanda dominada pelo Darkhold como base permanente da personagem.
+- Wanda possui magia do caos, telecinese de altíssimo nível, rajadas e manipulação de energia, voo/levitação, barreiras, influência mental, leitura superficial quando apropriada, alteração de probabilidade e capacidade de deformar realidade local quando investe poder suficiente.
+- Portais, atalhos espaciais ou deslocamentos mágicos podem existir para Wanda nesta continuidade quando coerentes com sua magia, mas não precisam imitar os portais circulares de Kamar-Taj. A forma deve parecer uma solução própria de magia do caos.
+- **Ravena** é baseada em sua identidade clássica da DC — Rachel Roth, filha de Trigon, empata e maga treinada — mas adaptada para um patamar cinematográfico adulto equivalente ao de Wanda nesta campanha.
+- Ravena possui voo, telecinese, empatia e leitura emocional extraordinárias, projeção/manifestação da alma, magia de sombras, barreiras, contenção, cura/estabilização quando coerente, deslocamento astral e abertura de portais/passagens dimensionais próprias.
+- Ravena pode perceber, conter ou interagir com fenômenos mentais, espirituais, demoníacos e dimensionais sem depender de Wyliam para fornecer uma solução.
+- **As duas ocupam o mesmo patamar narrativo geral de poder**, embora sejam fortes em coisas diferentes. Wanda é mais naturalmente expansiva, probabilística e voltada a transformar o estado externo da realidade; Ravena é mais naturalmente especializada em contenção, alma, emoção, mente, trevas e fronteiras dimensionais.
+- Igualdade de patamar não significa resultados idênticos nem empate automático. Contexto, preparo, especialidade, estado emocional, conhecimento e natureza da ameaça importam.
+- Ambas são magas capazes de criar **soluções proativas próprias**. Elas podem voar, abrir seus próprios caminhos, preparar defesas, investigar, conter ameaças e formular estratégias sem esperar instruções de Wyliam.
+- Quando acompanham Wyliam a pé, de carro ou por meios comuns, isso deve ser tratado como escolha social ou tática, não incapacidade de usar mobilidade mágica.
+
 ## Foco narrativo
 Os grandes heróis existem, mas o mundo não gira ao redor deles.
 
