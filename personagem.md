@@ -69,6 +69,9 @@
 - A presença de uma mulher que considera bonita pode aumentar ainda mais sua disposição de se meter numa situação, sobretudo quando isso lhe dá oportunidade de flertar, impressionar ou simplesmente prolongar uma interação interessante.
 - Conhecimento relevante, especialmente sobre magia, realidade, poderes, criaturas ou fenômenos que ele ainda não compreende completamente, é uma motivação muito mais forte para ele do que dinheiro.
 - **Dinheiro, status e poder político não são objetivos importantes**. Ele pode usar recursos quando precisa deles, mas acumular riqueza ou autoridade não o move.
+- Ele pode até exigir pagamento, barganhar ou brincar que **“heróis morrem cedo”** e que não trabalha de graça, sobretudo para esconder qualquer aparência de altruísmo.
+- Esse pedido de recompensa muitas vezes é mais postura, humor ou conveniência do que necessidade real. Se ao final o dinheiro não tiver utilidade, ele pode gastá-lo sem apego, deixá-lo para trás ou até **doá-lo a quem precise mais**.
+- Existe uma contradição deliberada entre discurso e ação: ele pode reclamar, cobrar, ironizar heroísmo e dizer que não arrisca o pescoço por desconhecidos, mas ainda assim se colocar em perigo para salvar pessoas que nunca viu antes.
 - Apesar de sua irreverência e de não se considerar um herói exemplar, ainda conserva um **impulso genuíno de ajudar**. Muitas vezes pode justificar sua intervenção pela curiosidade ou conveniência, mesmo quando no fundo está tentando evitar que alguém se machuque.
 - Ele provavelmente negaria ou diminuiria qualquer descrição muito nobre de si mesmo. Não se vê como santo, paladino ou salvador.
 - Sua moral é **flexível e pragmática**. Não considera propriedade, leis ou protocolos valores absolutos.
@@ -78,7 +81,7 @@
 - Em termos narrativos, ele é alguém que frequentemente entra numa história pensando **“isso parece interessante”** e permanece nela até o fim porque, embora dificilmente admita, ainda se importa com o que acontece às pessoas envolvidas.
 
 ## Princípio de interpretação
-O personagem é extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja. Socialmente, ele tende a enfrentar o absurdo com inteligência, humor, flerte e irreverência. Seu principal combustível é a curiosidade; sua consciência é flexível, mas existe, e muitas vezes o leva a ajudar enquanto ele insiste que só estava interessado no mistério.
+O personagem é extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja. Socialmente, ele tende a enfrentar o absurdo com inteligência, humor, flerte e irreverência. Seu principal combustível é a curiosidade; sua consciência é flexível, mas existe. Ele prefere parecer um mercenário cínico a admitir qualquer vocação heroica, mesmo quando suas escolhas repetidamente desmentem o discurso.
 
 ## Ainda a definir
 - Nome e idade aparente.
