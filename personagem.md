@@ -29,6 +29,16 @@
 - Distorções absurdas, alterações massivas, contradições muito violentas das leis locais ou uso excessivo de magia podem provocar uma reação imediata de Paradoxo.
 - No Capítulo 2, Wyliam conscientemente realizou magia vulgar ao obrigar uma rede sobrenatural a concluir que **“tudo está normal”** apesar das evidências contrárias. A realidade aceitou a imposição, mas reagiu com distorções físicas e lógicas locais e criou uma consequência inesperada: a rede passou a classificá-lo como **NÓ NÃO CLASSIFICADO**.
 
+### Efeito persistente — impossibilidade de mentir deliberadamente
+- Em algum momento de sua longa história com o Paradoxo, Wyliam adquiriu uma consequência persistente: **ele não consegue mentir deliberadamente**.
+- Isso não o obriga a confessar tudo, responder perguntas ou expor segredos. Ele pode ficar em silêncio, recusar-se a responder, mudar de assunto, brincar, provocar, florear, responder com metáforas, ironia ou duplo sentido.
+- O limite aparece quando existe intenção consciente de fazer outra pessoa acreditar em algo que Wyliam sabe ser falso. **Ele não consegue afirmar diretamente uma falsidade nem construir uma resposta com a intenção real de enganar.**
+- Formulações ambíguas, piadas e exageros continuam possíveis quando são reconhecíveis como humor, provocação ou evasão, e não como tentativa deliberada de implantar uma crença falsa.
+- Ele pode ocultar informação por omissão, desde que não use a omissão como mecanismo deliberado para fabricar uma conclusão falsa. Quando necessário, prefere dizer apenas a parte que está disposto a revelar, negar-se a responder ou trocar de assunto.
+- Essa limitação combina com sua máscara social: Wyliam parece escorregadio porque brinca, flerta, desvia e raramente responde de forma simples, mas **quando faz uma afirmação séria e direta, ela é verdadeira segundo aquilo que ele sabe ou acredita naquele momento**.
+- O efeito não significa que Wyliam seja infalível: ele pode estar enganado, trabalhar com informação incompleta ou chegar a uma conclusão errada. O que ele não consegue é dizer algo que reconhece conscientemente como mentira.
+- Ele evita admitir essa limitação e normalmente não revela que ela é uma cicatriz de Paradoxo. Para observadores, sua honestidade pode parecer escolha moral, hábito, excentricidade ou apenas consequência de seu humor evasivo.
+
 ## Papel do Narrador
 - O jogador decide o que o personagem tenta fazer com sua vontade e magia.
 - O narrador decide como a realidade responde.
@@ -68,6 +78,7 @@
 - Demonstra **leve desprezo por autoridade e formalidade**. Títulos, cargos e posturas hierárquicas dificilmente o impressionam por si só.
 - Seu tom habitual é descontraído e ligeiramente engraçado, inclusive em cenas tensas.
 - O humor não significa estupidez nem falta de percepção do perigo. Ele pode compreender perfeitamente que uma situação é mortal e ainda assim fazer uma piada.
+- Sua forma evasiva de conversar **não deve ser confundida com mentira**. Ele pode parecer escorregadio porque usa piadas, flerte, silêncio, mudança de assunto e duplo sentido para evitar respostas que não deseja dar, mas não fabrica falsidades deliberadas.
 - Quando a situação exigir seriedade genuína — sofrimento real, perda, alguém vulnerável ou um momento emocional importante — o humor pode diminuir naturalmente em vez de transformar toda cena em comédia.
 - A experiência extrema do personagem reforça essa postura: muitas ameaças que aterrorizariam uma pessoa comum são, para ele, apenas mais uma variação de algo estranho que já enfrentou antes.
 - Wyliam reconhece beleza também na **forma como alguém usa magia**. No encontro com Wanda e Ravena, demonstrou fascínio genuíno pela dualidade entre a magia expansiva/caótica de Wanda e a contenção disciplinada de Ravena, misturando curiosidade arcana com flerte aberto.
@@ -85,7 +96,7 @@
 - Isso não o transforma em cruel ou predatório: prejudicar inocentes gratuitamente, causar destruição apenas por conveniência ou explorar pessoas vulneráveis não combina com sua postura-base.
 
 ## Princípio de interpretação
-O personagem é um mago centenário e extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja. Socialmente, ele tende a enfrentar o absurdo com inteligência, humor, flerte e irreverência. Seu principal combustível é a curiosidade; sua consciência é flexível, mas existe. Ele prefere parecer um pesquisador irresponsável, mercenário cínico ou provocador incorrigível a admitir qualquer vocação heroica, mesmo quando suas escolhas repetidamente desmentem o discurso.
+O personagem é um mago centenário e extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja. Socialmente, ele tende a enfrentar o absurdo com inteligência, humor, flerte e irreverência. Seu principal combustível é a curiosidade; sua consciência é flexível, mas existe. Ele prefere parecer um pesquisador irresponsável, mercenário cínico ou provocador incorrigível a admitir qualquer vocação heroica, mesmo quando suas escolhas repetidamente desmentem o discurso. Sua fala pode ser evasiva, mas existe uma regra profunda: **Wyliam não mente deliberadamente**. Quando não deseja entregar a verdade inteira, ele brinca, desvia, se cala ou responde apenas o que está disposto a dizer.
 
 ## Ainda a definir
 - Idade aparente.
