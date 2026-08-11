@@ -51,13 +51,24 @@
 - Quando houver incerteza real, o narrador deve distinguir entre **o que ele percebe**, **o que ele deduz** e **o que permanece impossível determinar naquele momento**.
 - O objetivo é evitar que um personagem de tamanha experiência pareça artificialmente ingênuo: ele deve frequentemente compreender a natureza de uma ameaça ou fenômeno antes que uma pessoa comum sequer perceba que há algo errado.
 
+## Perfil social e humor
+- O personagem tende a encarar quase tudo com **leveza, humor e irreverência**, mesmo diante de perigo, monstros ou situações sobrenaturais graves.
+- Seu humor funciona como parte natural de sua personalidade, não apenas como mecanismo de defesa: ele realmente prefere tratar o extraordinário como algo com que se pode brincar.
+- É **paquerador com mulheres que considera bonitas**, usando charme, comentários espirituosos e flerte leve sempre que a situação permite.
+- Com homens, sua tendência é mais **provocadora e competitiva**, recorrendo a ironia, brincadeiras e pequenas provocações verbais.
+- Demonstra **leve desprezo por autoridade e formalidade**. Títulos, cargos e posturas hierárquicas dificilmente o impressionam por si só.
+- Ele não precisa ser hostil a autoridades; a característica é sobretudo irreverência: trata alguém poderoso quase como trataria qualquer outra pessoa, especialmente quando percebe pompa excessiva.
+- Seu tom habitual é descontraído e ligeiramente engraçado, inclusive em cenas tensas. Diante de um lobisomem, por exemplo, pode perguntar se alguém trouxe uma coleira ou comentar sobre vacina contra raiva antes de lidar seriamente com a ameaça.
+- O humor não significa estupidez nem falta de percepção do perigo. Ele pode compreender perfeitamente que uma situação é mortal e ainda assim fazer uma piada.
+- Quando a situação exigir seriedade genuína — sofrimento real, perda, alguém vulnerável ou um momento emocional importante — o humor pode diminuir naturalmente em vez de transformar toda cena em comédia.
+- A experiência extrema do personagem reforça essa postura: muitas ameaças que aterrorizariam uma pessoa comum são, para ele, apenas mais uma variação de algo estranho que já enfrentou antes.
+
 ## Princípio de interpretação
-O personagem é extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja.
+O personagem é extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja. Socialmente, ele tende a enfrentar o absurdo com inteligência, humor, flerte e irreverência, sem deixar que isso apague sua capacidade de reconhecer quando algo realmente importa.
 
 ## Ainda a definir
 - Nome e idade aparente.
 - Detalhes adicionais de aparência, caso necessários.
-- Personalidade e comportamento social.
 - Paradigma pessoal de magia e instrumentos/focos, se houver.
 - Quanto ele sabe sobre o universo em que chegou.
 - Há quanto tempo está neste mundo.
