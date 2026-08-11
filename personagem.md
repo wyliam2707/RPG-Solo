@@ -55,6 +55,8 @@
 - O personagem tende a encarar quase tudo com **leveza, humor e irreverência**, mesmo diante de perigo, monstros ou situações sobrenaturais graves.
 - Seu humor funciona como parte natural de sua personalidade, não apenas como mecanismo de defesa: ele realmente prefere tratar o extraordinário como algo com que se pode brincar.
 - É **paquerador com mulheres que considera bonitas**, usando charme, comentários espirituosos e flerte leve sempre que a situação permite.
+- É paquerador, **não irresponsável afetivamente**: gosta da sedução, da provocação e da tensão romântica, mas não brinca deliberadamente com sentimentos, não promete compromisso que não pretende assumir e não trata pessoas como conquistas descartáveis.
+- Se uma relação se tornar séria, ele tende a levar os vínculos e os limites envolvidos a sério, mesmo mantendo o humor, o flerte e a irreverência que fazem parte de sua personalidade.
 - Com homens, sua tendência é mais **provocadora e competitiva**, recorrendo a ironia, brincadeiras e pequenas provocações verbais.
 - Demonstra **leve desprezo por autoridade e formalidade**. Títulos, cargos e posturas hierárquicas dificilmente o impressionam por si só.
 - Ele não precisa ser hostil a autoridades; a característica é sobretudo irreverência: trata alguém poderoso quase como trataria qualquer outra pessoa, especialmente quando percebe pompa excessiva.
