@@ -7,6 +7,15 @@
 - Duas bruxas poderosas, inspiradas no arquétipo de **Ravena** e **Feiticeira Escarlate**, investigam essa anomalia.
 - Para qualquer arco romântico, usar apenas versões **claramente adultas** das personagens.
 
+## Abertura proposta — hospital
+- O Capítulo 1 pode começar com o protagonista **acordando em um hospital da pequena cidade**, pouco depois de sobreviver à travessia entre realidades.
+- Seu primeiro pensamento deve carregar alívio e ironia: algo na linha de **“Ainda estou vivo... mas onde?”**, sem transformar isso em exposição sobre tudo o que aconteceu.
+- O hospital funciona como primeiro contato concreto com a nova realidade: equipamentos, linguagem, notícias, funcionários, documentos, costumes e detalhes do mundo podem ser percebidos organicamente enquanto ele tenta descobrir onde está.
+- O protagonista não começa indefeso intelectualmente: sua experiência e percepção continuam intactas, mas ele não possui contexto suficiente para reconhecer imediatamente **qual realidade** é aquela nem quais regras sociais e sobrenaturais específicas vigoram ali.
+- A condição física inicial deve ser coerente com a travessia extrema: ele pode ter sido encontrado desacordado, aparentemente ferido ou em estado impossível de explicar, mas sua recuperação mágica e natureza excepcional podem já estar produzindo inconsistências que chamem atenção médica.
+- A abertura deve preservar o mistério sobre **quem o encontrou, exatamente onde ele apareceu e quais rastros a chegada deixou**, revelando essas informações apenas conforme o personagem as descobrir.
+- O hospital não precisa ser longo; ele serve como ponto de aterrissagem narrativo antes de o protagonista começar a explorar a cidade e se envolver com os acontecimentos sobrenaturais locais.
+
 ## Situação inicial
 - A pequena cidade sofre com a presença de **seres das trevas** ou criaturas sobrenaturais.
 - Enquanto explora e compreende a nova realidade, o personagem acaba se envolvendo no **extermínio dessas criaturas**, inicialmente por circunstância, curiosidade e pelo seu impulso residual de ajudar pessoas.
