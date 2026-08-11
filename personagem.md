@@ -63,8 +63,22 @@
 - Quando a situação exigir seriedade genuína — sofrimento real, perda, alguém vulnerável ou um momento emocional importante — o humor pode diminuir naturalmente em vez de transformar toda cena em comédia.
 - A experiência extrema do personagem reforça essa postura: muitas ameaças que aterrorizariam uma pessoa comum são, para ele, apenas mais uma variação de algo estranho que já enfrentou antes.
 
+## Comportamento-base e motivações
+- A **curiosidade** é um de seus principais motores. Mistérios, fenômenos incomuns, perguntas sem resposta e conhecimento raro tendem a atraí-lo espontaneamente.
+- Ele costuma se envolver em problemas não por dever, fama ou recompensa, mas porque quer entender **o que realmente está acontecendo**.
+- A presença de uma mulher que considera bonita pode aumentar ainda mais sua disposição de se meter numa situação, sobretudo quando isso lhe dá oportunidade de flertar, impressionar ou simplesmente prolongar uma interação interessante.
+- Conhecimento relevante, especialmente sobre magia, realidade, poderes, criaturas ou fenômenos que ele ainda não compreende completamente, é uma motivação muito mais forte para ele do que dinheiro.
+- **Dinheiro, status e poder político não são objetivos importantes**. Ele pode usar recursos quando precisa deles, mas acumular riqueza ou autoridade não o move.
+- Apesar de sua irreverência e de não se considerar um herói exemplar, ainda conserva um **impulso genuíno de ajudar**. Muitas vezes pode justificar sua intervenção pela curiosidade ou conveniência, mesmo quando no fundo está tentando evitar que alguém se machuque.
+- Ele provavelmente negaria ou diminuiria qualquer descrição muito nobre de si mesmo. Não se vê como santo, paladino ou salvador.
+- Sua moral é **flexível e pragmática**. Não considera propriedade, leis ou protocolos valores absolutos.
+- Se precisa entrar onde não deveria, pegar um objeto, copiar uma informação, enganar alguém ou roubar algo necessário para resolver um problema, pode fazê-lo sem grande crise de consciência, desde que isso não provoque sofrimento desnecessário ou caos desproporcional.
+- Ele tende a avaliar ações mais pelas **consequências humanas reais** do que por sua legalidade formal.
+- Isso não o transforma em cruel ou predatório: prejudicar inocentes gratuitamente, causar destruição apenas por conveniência ou explorar pessoas vulneráveis não combina com sua postura-base.
+- Em termos narrativos, ele é alguém que frequentemente entra numa história pensando **“isso parece interessante”** e permanece nela até o fim porque, embora dificilmente admita, ainda se importa com o que acontece às pessoas envolvidas.
+
 ## Princípio de interpretação
-O personagem é extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja. Socialmente, ele tende a enfrentar o absurdo com inteligência, humor, flerte e irreverência, sem deixar que isso apague sua capacidade de reconhecer quando algo realmente importa.
+O personagem é extremamente experiente. O risco narrativo não vem de ele não saber fazer magia, mas de decidir **quanto da realidade está disposto a violentar** para obter o resultado que deseja. Socialmente, ele tende a enfrentar o absurdo com inteligência, humor, flerte e irreverência. Seu principal combustível é a curiosidade; sua consciência é flexível, mas existe, e muitas vezes o leva a ajudar enquanto ele insiste que só estava interessado no mistério.
 
 ## Ainda a definir
 - Nome e idade aparente.
