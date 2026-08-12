@@ -12,6 +12,7 @@
 - Nessa realidade era um mago no auge, descrito pelo jogador como **Gnose 10**.
 - Foi expelido de sua realidade por uma reação extrema de **Paradoxo** e sobreviveu à travessia.
 - O evento exato que provocou a expulsão permanece parcialmente indefinido, embora memórias já mostradas em jogo revelem episódios anteriores de magia vulgar extrema e longas recuperações.
+- Em sua realidade, magia de baixo poder precisava normalmente parecer **possível/coincidente**. A realidade reagia mal a milagres ostensivos quando o mago ainda não tinha força suficiente para sustentá-los. Isso ensinou Wyliam a fazer o impossível parecer apenas muito improvável.
 
 ## Natureza da magia
 - A vontade ajusta a realidade; Wyliam não depende de uma lista fixa de feitiços.
@@ -20,15 +21,18 @@
 - Magia vulgar ocorre quando ele obriga a realidade a aceitar uma conclusão estrutural, absoluta ou incompatível com as regras relevantes.
 - Sua experiência centenária aparece principalmente como precisão: reorganiza relações, funções, causalidade, espaço, matéria, energia e informação antes de recorrer a força bruta.
 - Poder não equivale a absolutismo. Barreiras, âncoras, conexões, resistências e regras locais continuam importando.
+- Uma marca importante do estilo de Wyliam é **analisar, adaptar e só então alterar**. Ele sobreviveu a ameaças mágicas e conceituais não por sorte, mas por aprender a regra do perigo enquanto ele ainda tenta matá-lo.
 
 ## Paradoxo neste universo
 - Paradoxo é uma reação narrativa da realidade, não uma barra ou recurso numérico.
 - Pode produzir consequências físicas, causais, espaciais, mentais ou conceituais relacionadas ao tipo de violação.
 - No Capítulo 2, uma magia vulgar sobre a rede alienígena levou à classificação persistente **NÓ NÃO CLASSIFICADO**.
 - No Capítulo 4, uma projeção astral transmitida como informação através de um canal interdimensional provocou uma reação leve: tontura e náusea semelhantes a enjoo de alto-mar por alguns minutos.
+- No Capítulo 5, restaurar de forma vulgar um setor ontologicamente desvinculado e cortar sua conexão externa causou retorno muito mais pesado: tosse com sangue, fraqueza e cerca de dois dias de recuperação.
 
 ### Efeito persistente — impossibilidade de mentir deliberadamente
-- Em algum momento de sua longa história com o Paradoxo, Wyliam adquiriu uma consequência persistente: **ele não consegue mentir deliberadamente**.
+- Em jogo foi revelado que essa condição foi a **primeira marca de Paradoxo de Wyliam ao despertar como mago**.
+- Wyliam **não consegue mentir deliberadamente**.
 - O limite não é moral; é funcional. Ele não consegue afirmar algo que sabe ser falso com a intenção de fazer outra pessoa acreditar nessa falsidade.
 - Isso não o obriga a confessar, responder ou revelar segredos. Ele pode permanecer em silêncio, recusar resposta, mudar de assunto, usar humor, metáfora, ironia, floreio, exagero obviamente jocoso ou duplo sentido.
 - Ele pode dizer somente a parte verdadeira que está disposto a revelar e permitir que a conversa siga sem completar o restante, desde que não fabrique conscientemente uma conclusão falsa.
@@ -38,8 +42,8 @@
 - Perguntas profundas como “você ama Wanda?” ou “você ama Ravena?” podem fazê-lo travar justamente porque, se souber a resposta, não consegue substituí-la por uma negação confortável. Se ainda não souber, só pode admitir a incerteza ou fugir da pergunta.
 - Quando uma verdade o deixa vulnerável ou desconfortável, sua defesa habitual é **desviar**, **fazer piada**, **provocar**, **irritar deliberadamente para mudar a tensão**, **ignorar a pergunta** ou **mudar de assunto**.
 - Essa condição é uma **maldição**, não uma vantagem narrativa automática. Pode expô-lo em momentos inoportunos, tornar negociações pessoais difíceis e entregar sentimentos que ele preferiria manter privados.
-- Wyliam não costuma admitir que essa incapacidade existe e evita revelar que ela é uma cicatriz de Paradoxo.
 - Ele pode estar enganado ou trabalhar com dados incompletos; a limitação impede mentira consciente, não erro.
+- No Capítulo 5, Wyliam usou temporariamente um feitiço vulgar de honestidade compartilhada (“meu Paradoxo é seu Paradoxo”) e sofreu retorno que o deixou incapaz de esconder pensamentos e sentimentos claros por alguns minutos.
 
 ### Sugestão mental e honestidade
 - Sugestão mental leve é tratada por Wyliam como uma forma sobrenatural de **persuasão aprimorada**, não como fabricação de realidade mental.
@@ -53,6 +57,8 @@
 - Não possui aparência de atleta ou super-herói.
 - Magia reforça continuamente o organismo, permitindo desempenho físico próximo ao limite superior humano, usando o Capitão América apenas como referência conceitual.
 - Isso não lhe concede automaticamente técnica marcial excepcional; sua principal vantagem continua sendo magia, inteligência e experiência.
+- A aparência quase sem marcas é parcialmente uma **apresentação/ilusão discreta**. Se ele a desfaz, o corpo revela muitas cicatrizes antigas e novas: dentes, garras, cortes, queimaduras, perfurações e áreas reconstruídas ou remendadas magicamente.
+- Quando procura uma lembrança muito antiga ligada a determinada cicatriz, seus olhos podem ficar **brancos** enquanto acessa a memória.
 
 ## Percepção sobrenatural e capacidade analítica
 - Inteligência e percepção extremamente apuradas, compatíveis com um mago centenário no auge da Gnose.
@@ -81,9 +87,47 @@
 - Ele pode afirmar que não é herói e tratar ajuda como pesquisa, conveniência ou negociação, mas repetidamente se arrisca para salvar pessoas.
 - Sua moral é flexível e pragmática; leis e propriedade não são absolutos, mas crueldade gratuita e exploração de vulneráveis não combinam com sua postura-base.
 - Evita genocídio como solução simples e prefere distinguir indivíduos, escolhas e possibilidades de negociação.
+- Em situações predatórias, distingue **necessidade** de **esporte/crueldade**: mostrou grande tolerância para uma espécie caçando por fome, mas deixou claro que essa leniência termina quando existe alternativa e alguém continua predando por escolha.
+
+## Regra interna de decisão — vários caminhos, mesmo resultado
+- Wyliam não acredita que tudo esteja predeterminado. A frase descreve **a relação dele consigo mesmo**.
+- Quando reconhece com clareza o que realmente quer, pode discordar do método, preço, tempo ou caminho, mas tende a acabar indo na direção daquela resposta já conhecida.
+- Ele resume isso como um problema de Paradoxo pessoal: consegue discordar de vida, distância, matéria, causalidade e conceitos, mas não consegue honestamente “discordar” do próprio desejo reconhecido.
+- Com Wanda e Ravena, ele já sabe que quer tentar se aproximar das duas. Não considera sucesso garantido e aceita esperar; a decisão de tentar, porém, já está tomada.
+- Esse traço explica por que às vezes parece agir como se uma linha de ação já estivesse traçada: para ele, muitas vezes ela está.
+
+## Wanda e Ravena — estado emocional conhecido por Wyliam
+- Wyliam percebe que está **“ferrado”** em relação às duas: expressão que usa para reconhecer um vínculo/desejo forte o bastante para saber que tentará mesmo vendo riscos enormes.
+- No Capítulo 5, confessou sob efeito de Paradoxo que quer as duas, não como certeza de conquista, mas como verdade do que pretende tentar.
+- Também revelou que não se sentia “ferrado por alguém” desde um amor de infância que morreu.
+- Wanda e Ravena não prometeram relacionamento e continuam com vontade própria, limites e decisões independentes.
+- Wyliam aceita isso e considera “esperar” a menor das dificuldades comparada aos riscos cósmicos que associa às duas.
+
+## Âncora de alma distribuída — condição atual
+- No Capítulo 5, diante de uma área capaz de apagar existência, Wyliam dividiu a própria alma como mecanismo de redundância:
+  - **30% em Wanda**;
+  - **30% em Ravena**;
+  - **40% nele mesmo**.
+- A estrutura cria uma referência ontológica externa e recíproca: para apagar completamente um dos três seria necessário eliminar as três partes/conexões ao mesmo tempo.
+- Durante a recuperação, ajustou a ligação para distinguir **saber** de **sentir**: ameaça existencial, apagamento, presença e perigo importante continuam sendo percebidos, mas dor física comum não atravessa de forma bruta.
+- Wyliam disse que pretende recuperar depois as partes da alma; **a divisão ainda está ativa**.
+- Ele puxou a própria alma para fora do corpo para fazer esse ajuste. Enquanto a alma ficou exteriorizada, o corpo assumiu aparência cadavérica/zumbi e voltou ao normal assim que ela retornou.
+
+## Consentimento e a magia das âncoras
+- Wyliam beijou Wanda e Ravena de surpresa imediatamente antes de atravessar o setor apagado.
+- Depois admitiu que o beijo era **1000% desnecessário magicamente** e **100% desejado por ganância pessoal/incentivo operacional**.
+- Para a magia, contato físico e um aceite simples/“ok” já seriam suficientes.
+- Wanda e Ravena rejeitaram explicitamente a lógica de que surpresa ou não resistência equivalha a consentimento.
+- Wyliam reconheceu o ponto. Em futuras magias íntimas, vínculos de alma ou alterações semelhantes, a referência entre eles deve ser explicação/permissão explícita quando houver tempo e possibilidade real de perguntar.
+
+## Cicatrizes e histórias já reveladas
+- **Lobisomem:** investigação numa fazenda, noite de lua cheia, desaparecimentos. Wyliam quase teve o corpo separado em algo como 15%/85%, venceu usando fraqueza à prata e luta quase medieval. Aprendeu a fazer barreiras melhores.
+- **Chupa-cabras:** aldeia na floresta, duas crianças desaparecidas, uma encontrada viva. Wyliam pesquisou hábitos hematófagos, matou duas criaturas e descobriu que uma delas continuava presa à mordida depois de morta. Aprendeu a não entrar em buracos sem plano e a manter “seguro de alma”.
+- **Larvas de energia planar:** investigava aparições estranhas no céu de Madri, encontrou uma criatura assustada, achou-a linda, recolheu-a e a soltou depois em local seguro. Dois dias depois estava infestado por larvas planares, descritas por ele como um “bicho-de-pé enorme”.
+- **Cicatriz mental — amor de infância:** morreu em acidente de carro. Wyliam tentou trazê-la de volta sabendo que era uma ideia péssima. O corpo voltou sem alma, funcionou por sete dias e tornou-se zumbi canibal; ele precisou matá-lo. A Morte não quis a alma de volta e Wyliam levou cerca de meio ano até conseguir um anjo que a encaminhasse.
 
 ## Princípio de interpretação
-Wyliam é um mago centenário, extremamente experiente e perigosamente curioso. O risco narrativo não vem de incompetência, mas de decidir **quanto da realidade está disposto a violentar** para obter um resultado. Socialmente, enfrenta o absurdo com humor, flerte e irreverência. Sua fala pode ser evasiva, mas existe uma regra profunda: **ele não mente deliberadamente**. Quando não quer dizer uma verdade, ele escapa dela; quando algo lhe agrada ou desperta atração, tende a admitir antes de pensar demais. Quanto mais direta e inequívoca a pergunta, mais a maldição o encurrala. Sua honestidade não o torna transparente — torna sua máscara de humor ainda mais necessária.
+Wyliam é um mago centenário, extremamente experiente e perigosamente curioso. O risco narrativo não vem de incompetência, mas de decidir **quanto da realidade está disposto a violentar** para obter um resultado. Socialmente, enfrenta o absurdo com humor, flerte e irreverência. Sua fala pode ser evasiva, mas existe uma regra profunda: **ele não mente deliberadamente**. Quando não quer dizer uma verdade, ele escapa dela; quando algo lhe agrada ou desperta atração, tende a admitir antes de pensar demais. Quanto mais direta e inequívoca a pergunta, mais a maldição o encurrala. Sua honestidade não o torna transparente — torna sua máscara de humor ainda mais necessária. Quando entende uma ameaça, sua resposta preferida é estudar, adaptar e então reescrever a situação; quando entende o que deseja, vários caminhos podem mudar, mas o resultado que ele escolheu tende a permanecer o mesmo.
 
 ## Ainda a definir
 - Idade aparente.
