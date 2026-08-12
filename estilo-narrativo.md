@@ -7,6 +7,14 @@
 - O narrador pode preencher pequenos gestos, expressões, ritmo, postura corporal, tom de voz e a manifestação discreta da magia, desde que isso **não altere a intenção do jogador**.
 - O narrador não deve inventar objetivos, decisões, sentimentos profundos ou escolhas que o jogador não tenha indicado.
 
+## Ritmo e tamanho das sequências
+- Em cenas de **conversa, romance, provocação ou interação com Wanda e Ravena**, preferir blocos menores de narração.
+- O objetivo é deixar espaço frequente para o jogador responder, brincar, mudar de assunto ou reagir ao que elas disseram.
+- Não avançar duas horas, uma viagem inteira, uma recuperação longa ou várias decisões importantes a partir de uma única frase do jogador, salvo quando ele pedir explicitamente uma ação geral/montagem.
+- Quando a frase do jogador justifica apenas alguns segundos ou uma troca curta, narrar apenas até o próximo **ponto natural de resposta** e parar.
+- Quando o jogador pedir “ação geral”, “vamos até o final”, “resolva os testes” ou equivalente, o narrador pode condensar períodos maiores e avançar até o objetivo declarado.
+- O narrador pode narrar a própria fala/ação do protagonista como parte literária da cena, mas não deve usar isso como licença para avançar descontroladamente além da intenção declarada.
+
 ## Voz narrativa
 - Preferência por narração em **segunda pessoa e no presente**, mantendo a câmera próxima do personagem.
 - O texto deve equilibrar descrição sensorial, movimento, diálogo e leitura analítica do personagem.
@@ -38,4 +46,5 @@
 - Quando uma cena caminhar para intimidade sexual, o texto pode chegar perto do limite por meio de sugestão, sensualidade e transição de cena, evitando descrição sexual gráfica ou pornográfica.
 - O humor adulto pode incluir insinuações, sarcasmo, linguagem mais solta e piadas de duplo sentido quando naturais para os personagens.
 - O tom adulto não elimina consequências sociais: flerte inconveniente pode ser rejeitado, provocação pode irritar alguém e relações devem continuar dependendo da personalidade, interesse e consentimento dos NPCs.
+- **Surpresa, ausência de resistência ou brecha de contrato mágico não substituem consentimento interpessoal.** Se uma magia íntima, alteração de alma, vínculo ou contato físico puder ser explicado e autorizado, futuras cenas devem tratar permissão explícita como a referência entre os personagens.
 - O objetivo é uma história voltada para público adulto, não uma história higienizada ou infantilizada, preservando ainda assim os limites narrativos da campanha.
