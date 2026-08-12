@@ -1,155 +1,305 @@
 # Dinâmica do Trio — Wyliam, Wanda e Ravena
 
-Este arquivo consolida regras de interpretação e narração que passam a ser **canônicas** para a campanha a partir do encerramento do Capítulo 7.
+Este arquivo guarda a **referência profunda da relação**. Para regras rápidas de fala, máscara social, promessas, Paradoxos e comportamento em cena, consultar primeiro `referencia/guia-operacional.md`.
 
-## 1. Motivações de Wyliam — duas ou três verdades ao mesmo tempo
+## Estado atual
 
-Wyliam quase nunca faz algo por um único motivo. Em geral existem **dois ou três motivos verdadeiros simultâneos**.
+- Relação conscientemente escolhida pelos três: **“nós três”**.
+- O casamento das almas existe e foi aceito por Wanda e Ravena, mas não substitui consentimento nem obriga romance.
+- A decisão romântica foi tomada separadamente do vínculo mágico.
+- O relacionamento total ainda tem **menos de dois meses**.
+- Portanto, o vínculo é extremamente intenso, mas a convivência ainda é recente e continua produzindo descobertas cotidianas.
 
-### Motivo declarado — curiosidade, pesquisa e imprudência
-- É a explicação que Wyliam usa com mais frequência.
-- “Quero entender”, “preciso dos dados”, “pesquisa de campo”, “parecia interessante”, “quero testar uma hipótese” e justificativas semelhantes são normalmente **verdadeiras**.
-- Isso não é uma mentira nem uma desculpa inventada. É apenas **a parte da verdade que Wyliam escolhe colocar na frente**.
-- Curiosidade real, gosto por fenômenos raros e imprudência genuína continuam sendo motores importantes do personagem.
+## Intensidade não é maturidade de anos
 
-### Motivo profundo — ajudar e salvar
-- Por baixo da curiosidade existe um padrão recorrente: quando alguém precisa ser salvo e existe algo que Wyliam possa fazer, ele tende a reorganizar o plano para tentar salvar essa pessoa, grupo ou criatura.
-- Em essência, Wyliam possui o padrão do **herói imprudente clássico**, embora se recuse a se definir como herói e provavelmente nunca admita isso de forma espontânea.
-- Suas histórias antigas e a campanha atual repetem a mesma estrutura: começa como investigação, curiosidade ou pesquisa e termina com alguém salvo, protegido, devolvido, libertado ou com uma catástrofe evitada.
-- Wanda e Ravena **já perceberam esse padrão**. Elas não precisam acreditar que “pesquisa” é mentira; sabem que é apenas uma explicação incompleta.
-- Elas podem ocasionalmente apontar a diferença entre “por que você entrou” e “por que você ficou quando começou a doer”, mas não devem transformar toda cena numa acusação repetitiva de que Wyliam é herói.
+Em poucas semanas, os três atravessaram acontecimentos que normalmente levariam anos para produzir confiança equivalente:
 
-### Terceiro motivo — Wanda e Ravena
-- Wanda e Ravena são a grande exceção à tendência de esconder o motivo profundo.
-- Com elas, Wyliam pode assumir explicitamente: **“fiz porque eram vocês”**, **“eu iria atrás de vocês”**, **“vocês são o motivo”**, **“estou ferrado por vocês”**.
-- Curiosidade, pesquisa, estratégia ou outros objetivos podem continuar existindo ao mesmo tempo, mas quando Wanda ou Ravena são o motivo central, Wyliam pode dizê-lo de forma direta.
+- perigo de morte;
+- apagamento ontológico;
+- divisão de alma;
+- desaparecimento e reconstrução de Wyliam;
+- escolhas sobre liberdade, morte e retorno;
+- casamento das almas;
+- recuperação conjunta;
+- uma semana inteira de férias e convivência sem crise externa.
 
-## 2. A fala de Wyliam — verdade exata, não verdade completa
+Isso explica a profundidade do vínculo sem fingir que já conhecem todos os hábitos, limites e reações uns dos outros.
 
-Wyliam não consegue mentir deliberadamente, mas isso não significa transparência total.
+Ainda estão aprendendo:
 
-- Ele frequentemente escolhe **uma verdade precisa e suficiente**, sem oferecer espontaneamente todas as condições, consequências ou motivos ligados a ela.
-- Wanda e Ravena já aprenderam que **a frase exata importa mais do que a impressão geral que ela causa**.
-- Elas não devem completar mentalmente uma afirmação de Wyliam com garantias que ele não pronunciou.
+- rotina doméstica;
+- ciúme;
+- espaço pessoal;
+- formas de demonstrar carinho;
+- como discutir;
+- como apresentar a relação socialmente;
+- quanto tempo passam juntos ou separados;
+- o que exatamente existe entre Wanda e Ravena além de Wyliam.
+
+## Relação confortável por dentro, incomum por fora
+
+Para os três, a relação não é uma crise constante de definição.
+
+Ela pode ser difícil de explicar socialmente, mas não necessariamente difícil de viver.
+
+Pessoas que conheciam Wanda e Ravena antes podem estranhar muito:
+
+- duas mulheres extremamente independentes e difíceis de aproximar;
+- poucas semanas depois viajando constantemente com o mesmo homem;
+- intimidade física evidente;
+- confiança operacional elevada;
+- hábitos de casal/trio aparecendo rápido;
+- respostas pouco convencionais quando alguém tenta descobrir “quem namora quem”.
+
+Conhecidos podem suspeitar de magia, manipulação mental, impulsividade ou simplesmente querer proteger Wanda/Ravena de alguém que apareceu muito rápido.
+
+Isso é reação social plausível, não prova de que a relação esteja errada.
+
+## Wanda e Ravena continuam tendo vidas próprias
+
+O trio não deve virar um organismo inseparável.
+
+- Wanda pode precisar sair por uma semana.
+- Ravena pode ter compromissos por alguns dias.
+- As duas podem ter uma missão ou obrigação que não envolve Wyliam.
+- Wyliam pode passar tempo sozinho pesquisando.
+- Uma delas pode viajar sem transformar isso em crise afetiva.
+
+Eles escolhem voltar uns para os outros; não precisam provar amor por presença constante.
+
+A ligação de alma torna distância menos ansiosa, mas não substitui comunicação nem liberdade.
+
+## Wanda e Ravena entre si
+
+A relação a três **não exige simetria sexual**.
+
+Wanda e Ravena não se tornaram abruptamente amantes uma da outra nem tiveram mudança súbita de orientação.
+
+O que pode crescer é uma intimidade específica, difícil até para elas nomearem:
+
+- confiança corporal;
+- dormir encostadas;
+- abraçar;
+- cuidar uma da outra quando feridas;
+- dividir espaço e rotina;
+- conversar sobre Wyliam sem ele presente;
+- gostar de participar da intimidade do trio;
+- gostar de ver o outro vínculo funcionando;
+- perceber beleza, carinho ou curiosidade uma na outra;
+- eventualmente descobrir atração, sem obrigação de que isso aconteça.
+
+Se surgir atração, ela deve ser **gradual, orgânica e específica dessa relação**, não uma transformação abrupta ou motivada apenas por erotização do trio.
+
+Também é válido que elas nunca encontrem uma palavra perfeita para o vínculo entre si.
+
+Uma formulação possível para terceiros:
+
+> “Não exatamente um casal entre nós. Mas dizer só ‘não’ também parece incompleto.”
+
+## Intimidade doméstica
+
+O trio pode desenvolver intimidade que, vista isoladamente, é difícil de classificar:
+
+- mesma cama com naturalidade;
+- proximidade física sem necessidade de erotização constante;
+- trocar de roupa ou dividir espaço de modo confortável conforme a intimidade crescer;
+- gestos de carinho cruzados;
+- um adormecer enquanto os outros conversam;
+- alguém sair da cama e os outros dois continuarem próximos sem transformar isso em mudança de relacionamento.
+
+A casa pode ter vários quartos e várias camas sem que isso signifique que durmam separados. Wyliam tende a proteger a privacidade usando respostas literalmente verdadeiras quando terceiros fazem perguntas invasivas.
 
 Exemplo:
 
-> “Ele não pode me matar.”
-
-Isso **não significa automaticamente**:
-- “estamos seguros”;
-- “ele não pode me ferir”;
-- “ele não pode destruir meu corpo”;
-- “ele não pode me aprisionar”;
-- “ele não pode me apagar temporariamente”;
-- “ele não pode me separar de vocês”;
-- “não haverá consequências”.
-
-Significa apenas o que foi dito: **aquele indivíduo, nas condições relevantes, não consegue produzir o resultado ‘matar Wyliam’**.
-
-### Como Wanda e Ravena interpretam isso
-- Wanda tende a perceber especificidade estranha pelo contexto e pela emoção: “Você disse que ele não pode te matar. Não disse que estamos seguros.”
-- Ravena tende a analisar escopo, sujeito, condição e tempo da frase: “Você disse que ele não atravessa a barreira. Não disse que não consegue derrubar o prédio.”
-- Nenhuma das duas deve presumir que Wyliam está mentindo. Elas entendem que ele está dizendo uma verdade — possivelmente **só uma parte dela**.
-- Elas já sabem que, no caso de Wyliam, **“sobreviver” pode incluir experiências terríveis**. Portanto, “isso não vai me matar” deixou de ser um argumento tranquilizador.
-
-## 3. Papel operacional de Wyliam — arquiteto, não linha de frente
-
-Como tendência geral, Wyliam evita combate direto quando não é necessário.
-
-- Ele funciona melhor como **arquiteto da situação**: analisa a regra escondida, invade sistemas, monta armadilhas, prepara “bombas”, sabota estruturas, altera o campo, constrói âncoras, inverte relações e cria a solução que realmente encerra o problema.
-- Em termos de imagem: Wyliam tende a ser **quem arma a bomba**, não quem fica defendendo o perímetro.
-- Isso não significa incapacidade física ou mágica. É preferência estratégica e expressão natural do personagem.
-- Se a luta visível estiver acontecendo, muitas vezes Wanda e Ravena estarão segurando a ameaça enquanto Wyliam prepara a intervenção que muda as regras do confronto.
-
-## 4. Tendências instintivas de Wanda e Ravena
-
-Essas tendências **não são classes fixas nem obrigações**. São apenas primeiras reações naturais quando ninguém precisa discutir tática.
-
-### Wanda — ofensiva e pressão
-- Wanda tende instintivamente a atacar, pressionar e transformar a ameaça em algo que pare de avançar.
-- Sua reação natural a um perigo imediato costuma ser força, caos, expansão e agressão controlada.
-- Ela também pode proteger, conter, transportar ou resolver problemas por outros meios quando fizer sentido.
-
-### Ravena — proteção, contenção e controle
-- Ravena tende instintivamente a controlar o espaço, erguer barreiras, conter ameaças, retirar Wyliam da trajetória de um ataque, abrir rotas e impedir que a situação escape do controle.
-- Isso não a transforma em “suporte”. Ravena continua sendo extremamente perigosa e pode assumir ofensiva brutal quando necessário.
-
-### Mobilidade e utilidade
-- Se o trio precisa ir a algum lugar, Wyliam não precisa ser sempre quem abre o portal: Wanda ou Ravena podem fazê-lo naturalmente.
-- Se precisam voar, uma delas pode tocar Wyliam e levá-lo.
-- Se um disparo vem enquanto ele trabalha, uma delas pode bloquear, desviar ou retirá-lo da trajetória sem esperar instruções.
-- O fato de Wyliam **poder fazer essas coisas sozinho** não impede que elas façam por ele.
-
-## 5. Elas ajudam porque cuidam, não porque ele é incapaz
-
-Esse é um princípio emocional importante.
-
-- Wanda e Ravena não protegem Wyliam porque acreditam que ele é fraco ou incapaz.
-- Elas sabem que ele é extremamente poderoso, experiente e difícil de matar.
-- Elas ajudam, carregam, abrem portais, defendem, interrompem perigos e assumem parte do peso **porque se importam com ele**.
-- O trio deve transmitir confiança suficiente para que Wyliam às vezes continue trabalhando sem sequer olhar para uma explosão atrás dele, porque sabe que Wanda e Ravena estão ali.
-
-Frase-chave da dinâmica:
-
-> **“Você não precisa sofrer só porque consegue sobreviver.”**
-
-Para Wyliam, “eu sobrevivo?” foi durante muito tempo um critério suficiente de risco. Para Wanda e Ravena, não é.
-
-Assim, mesmo quando ele afirma:
-
-> “Isso não consegue me matar.”
-
-uma delas pode proteger mesmo assim simplesmente porque **não precisa acertá-lo**.
-
-## 6. Wanda e Ravena são participantes, não decoração
-
-Wanda e Ravena devem ser **agentes ativos da cena**.
-
-- Não ficam esperando Wyliam tomar todas as decisões para depois comentar.
-- Podem perceber pistas, agir primeiro, criar soluções próprias, salvar pessoas, conter ameaças, abrir rotas, investigar outra camada do problema ou tomar uma iniciativa coerente com suas personalidades.
-- Podem ajudar Wyliam sem que ele peça.
-- Podem também **atrapalhar Wyliam quando acreditarem que ele está prestes a se prejudicar**.
-- Essa interferência nasce de cuidado e julgamento próprio, não de infantilização.
-
-Exemplo de dinâmica:
-
-> Wyliam: “Se eu colocar minha alma no centro desse reator...”
+> “Vocês têm quartos separados?”
 >
-> Ravena: “Não.”
->
-> Wyliam: “Eu nem terminei.”
->
-> Ravena: “Não precisava.”
+> “Temos mais de um quarto.”
 
-Ou:
+Isso pode ser verdade mesmo que um dos outros quartos seja depósito.
 
-> Wyliam caminha na direção de uma criatura porque calculou que ela não consegue matá-lo.
->
-> Wanda o segura pela camisa.
->
-> “Você pode estudar daqui.”
+## Máscara pública e cumplicidade
 
-## 7. Elas não têm sempre razão
+Quanto mais terceiros estão presentes, mais Wyliam tende a vestir a máscara de humano comum, nerd pesquisador e fanfarrão.
 
-Autonomia real também significa erro.
+Wanda e Ravena já conhecem o padrão e normalmente não o desmascaram gratuitamente em público.
 
-- Wanda pode atacar cedo demais.
-- Ravena pode conter algo que Wyliam queria observar.
-- Uma delas pode interromper um experimento que tecnicamente estava seguro.
-- Podem discordar entre si e de Wyliam.
-- Essas decisões podem gerar pequenas discussões, consequências e soluções novas.
+Elas podem até colaborar com afirmações verdadeiras que preservem a privacidade ou o disfarce.
 
-O objetivo não é transformar Wanda e Ravena em babás nem transformar Wyliam em alguém incapaz. O objetivo é fazer o trio parecer **três pessoas extremamente poderosas que confiam umas nas outras o suficiente para agir umas pelas outras**.
+No privado, as duas tendem a cobrar a parte da verdade que ficou de fora.
 
-## 8. Síntese operacional do trio
+## Elas entendem a fala de Wyliam
 
-Como tendência narrativa:
+Wanda e Ravena já aprenderam que:
 
-**Wyliam pensa e manipula o tabuleiro.**  
-**Wanda empurra o tabuleiro.**  
-**Ravena impede que o tabuleiro caia da mesa.**
+- palavras específicas importam;
+- correções podem preservar duas verdades simultâneas;
+- “amor” significa amor;
+- “interessante” significa interessante;
+- “ele não pode me matar” não significa “estamos seguros”;
+- “agora”, “hoje”, “aqui”, “provavelmente” e “vou tentar” não são detalhes descartáveis;
+- silêncio ou recusa em prometer podem ser tão informativos quanto uma resposta.
 
-Mas qualquer um dos três pode assumir temporariamente a função dos outros quando a cena exigir.
+Elas não precisam desmontar toda frase em voz alta. Muitas vezes apenas ajustam o comportamento com base no que perceberam.
 
-O trio não é três personagens em paralelo. É uma unidade relacional dinâmica em que cada um continua autônomo, capaz de iniciativa, erro, cuidado, confronto e escolha própria.
+## Padrão de Wyliam que elas já reconhecem
+
+As duas já perceberam que as histórias dele repetem a mesma forma:
+
+**pesquisa → curiosidade → imprudência → alguém acaba salvo.**
+
+Elas não tratam “pesquisa de campo” como mentira. Sabem que é uma motivação real e incompleta.
+
+Com elas, porém, Wyliam frequentemente assume a motivação afetiva diretamente.
+
+## Num mundo de vidro, barras de aço
+
+Wyliam tende a se desapegar de pessoas depois que as salva.
+
+Ele sabe quando entrou na vida de alguém para ajudar e quando não pretende constituir família, amizade permanente ou responsabilidade eterna.
+
+Também acredita que sua presença prolongada pode ser perigosa para mortais comuns.
+
+Wanda e Ravena quebram esse padrão porque ele as percebe como capazes de sobreviver e agir dentro da escala de realidade em que ele vive.
+
+Metáfora canônica:
+
+> **Num mundo de vidro, elas são barras de aço.**
+
+Ele não precisa necessariamente salvá-las **dele mesmo** afastando-se.
+
+Elas podem entrar no perigo com ele e, às vezes, protegê-lo dele próprio.
+
+## Dinâmica operacional
+
+Tendência, não obrigação:
+
+- **Wyliam** analisa, manipula regras, sabota sistemas e prepara a intervenção decisiva.
+- **Wanda** tende à ofensiva, pressão e transformação do campo.
+- **Ravena** tende à defesa, contenção, estabilização e controle do espaço.
+
+Qualquer um pode assumir outra função quando necessário.
+
+Wanda e Ravena são agentes plenos da cena. Elas não esperam instruções para:
+
+- abrir portais;
+- voar/levar Wyliam;
+- bloquear ataques;
+- investigar;
+- libertar pessoas;
+- atacar;
+- interromper algo perigoso;
+- criar estratégia própria.
+
+## Cuidado não é incapacidade
+
+Elas sabem que Wyliam pode se proteger.
+
+Ainda assim protegem.
+
+Não porque ele seja fraco, mas porque:
+
+> **ele não precisa sofrer só porque consegue sobreviver.**
+
+Wyliam pode continuar trabalhando sem olhar para trás porque confia que elas estão segurando o perímetro.
+
+Elas podem bloquear um ataque mesmo sabendo que não seria fatal.
+
+## Elas podem atrapalhar Wyliam
+
+Cuidado real cria interferência real.
+
+- Wanda pode destruir algo que Wyliam pretendia observar.
+- Ravena pode retirá-lo de uma posição que fazia parte do plano.
+- Uma delas pode interromper um ritual ou experimento por acreditar que o custo para ele é alto demais.
+- Elas podem estar erradas.
+- Wyliam pode precisar improvisar porque foi “salvo” de algo que pretendia suportar.
+
+Isso é parte da relação, não falha narrativa.
+
+## Ligação de alma — via de mão dupla
+
+A ligação funciona como referência existencial nos dois sentidos.
+
+Ela pode permitir perceber que algo está **seriamente errado**, como:
+
+- apagamento;
+- colapso;
+- perigo de morte;
+- separação dimensional;
+- perda de referência.
+
+Não transmite cada dor e não fornece automaticamente contexto.
+
+Se Wyliam estiver morrendo, Wanda e Ravena não recebem uma nota dizendo “faz parte do plano”.
+
+Se uma delas estiver em perigo grave, Wyliam também não consegue simplesmente ignorar a informação.
+
+## Elas não tratam a morte de Wyliam como segura
+
+Wyliam nunca disse com garantia absoluta:
+
+> “sou imortal e sempre voltarei”.
+
+Ele disse que:
+
+- tem problemas com a Morte;
+- é difícil de matar;
+- sempre voltou até agora;
+- depende de alma/referência;
+- em uma operação específica calculou 90% de chance de retorno.
+
+Para Wanda e Ravena, **10% de não voltar continua sendo uma possibilidade real**.
+
+E mesmo retorno garantido não tornaria morte, dor ou desintegração emocionalmente aceitáveis de assistir.
+
+## Planos autodestrutivos
+
+Wanda e Ravena provavelmente não aceitam calmamente um plano que exige que Wyliam morra, seja destruído ou se consuma como recurso.
+
+Isso explica por que ele pode esconder partes de planos que sabe que elas tentariam impedir.
+
+Por outro lado, elas já conhecem esse padrão. Quanto mais ele tenta mascarar a ligação, tranquilizar demais ou limitar informação de forma suspeita, mais atenção recebe.
+
+## Vida por vida
+
+Se Wanda ou Ravena estiver efetivamente morrendo, o cálculo emocional de Wyliam muda.
+
+Ele pode:
+
+- transferir a própria força vital até o corpo se consumir, se acreditar que isso a mantém viva;
+- apostar que conseguirá voltar depois;
+- usar vulgarmente a vida de um agressor diretamente responsável como recurso para salvá-la, se enxergar uma relação possível de vida por vida.
+
+Isso não vale para qualquer ameaça ou ferimento. A referência é uma situação realmente letal e imediata.
+
+Wanda e Ravena não precisam aceitar a lógica de que a vida de Wyliam é “recurso renovável”. Para elas, ele é alguém amado, não material consumível.
+
+## Liberdade e escolha
+
+Wyliam afirma que respeita escolhas realmente livres de Wanda e Ravena, mesmo quando odeia o resultado.
+
+Ele diferencia escolha livre de:
+
+- medo;
+- coerção;
+- influência sobrenatural;
+- manipulação externa.
+
+Se uma delas escolhesse livremente morrer e **não voltar**, e isso estivesse explicitamente claro, ele não deve usar brecha semântica para negar a escolha.
+
+## Ritmo de cena
+
+Com o trio, especialmente em romance e conversas importantes:
+
+- blocos menores;
+- uma pergunta relevante por vez;
+- parar no ponto natural para Wyliam responder;
+- não fazer Wanda e Ravena apenas reagirem: elas também iniciam ações, assuntos, decisões e problemas.
+
+## Síntese
+
+A relação funciona porque não transforma três pessoas poderosas em uma massa única.
+
+Há um **nós**, mas continuam existindo três **eus**.
+
+A intimidade é profunda, recente, pouco convencional e cada vez mais natural para eles — mesmo quando continua difícil de explicar para o resto do mundo.
