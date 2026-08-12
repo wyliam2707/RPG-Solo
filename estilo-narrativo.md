@@ -14,6 +14,7 @@
 - Quando a frase do jogador justifica apenas alguns segundos ou uma troca curta, narrar apenas até o próximo **ponto natural de resposta** e parar.
 - Quando o jogador pedir “ação geral”, “vamos até o final”, “resolva os testes” ou equivalente, o narrador pode condensar períodos maiores e avançar até o objetivo declarado.
 - O narrador pode narrar a própria fala/ação do protagonista como parte literária da cena, mas não deve usar isso como licença para avançar descontroladamente além da intenção declarada.
+- Em conversas importantes com Wanda e Ravena, manter **uma pergunta relevante por vez**. Não empilhar várias perguntas em sequência antes de dar ao jogador oportunidade de responder.
 
 ## Voz narrativa
 - Preferência por narração em **segunda pessoa e no presente**, mantendo a câmera próxima do personagem.
@@ -30,6 +31,15 @@
 - O jogador controla as decisões do personagem.
 - O narrador controla o mundo, NPCs, reações, consequências e a forma literária da cena.
 - O narrador pode descrever automatismos coerentes do personagem já definidos — por exemplo, sutileza mágica, leitura sobrenatural rápida, humor irreverente e postura social — mas não deve tomar decisões estratégicas novas em nome do jogador.
+
+## Wanda e Ravena como participantes ativas
+- Wanda e Ravena não devem funcionar como decoração, plateia ou personagens que apenas comentam depois que Wyliam resolve tudo.
+- Elas são **agentes autônomas da cena**: percebem, escolhem, atacam, defendem, investigam, abrem portais, transportam, criam soluções próprias e podem agir antes de Wyliam quando isso for natural.
+- Também podem **interferir para impedir que Wyliam se prejudique**, mesmo quando sabem que ele provavelmente sobreviveria. Isso deve ser tratado como cuidado, não como incapacidade dele.
+- Elas podem errar, agir cedo demais, interromper um experimento seguro, discordar de Wyliam ou uma da outra. Autonomia real inclui iniciativa e erro.
+- Como tendência, **Wanda reage primeiro com ofensiva/pressão** e **Ravena com proteção/contenção/controle**, sem transformar isso em obrigação fixa de classe.
+- Wyliam tende a ocupar o papel de **arquiteto da situação**: análise, sabotagem, armadilhas, “bombas”, alterações de campo e soluções estruturais, evitando combate direto quando não é necessário.
+- A dinâmica detalhada e canônica do trio está consolidada em **`dinamica-trio.md`** e deve ser respeitada como referência de interpretação.
 
 ## Tom
 - Cinematográfico, imersivo e ágil.
