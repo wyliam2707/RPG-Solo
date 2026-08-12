@@ -37,10 +37,15 @@ Use este arquivo para localizar rapidamente onde um fato antigo aconteceu. Os ca
 
 **Tags:** despertar, nó de realidade, escolha de permanecer neste mundo, confirmação dos resultados da implosão, Plax-13, demônio usado como contenção, sacrifício antigo, férias de sete dias, desenvolvimento romântico, “nós três”, intimidade doméstica, coleira, rota sobrevivente, ORIGEM/DEVOLUÇÃO/TESTEMUNHA/VENHA.
 
-## Capítulo 8
+## Capítulo 8 — Casa, Anéis e um Endereço no Desconhecido
+`livro/capitulo-08.md`
+
+**Tags:** casa própria, identidade civil, ouro, noivado, três anéis, artefatos, Rainha como amiga, livro da rede, ligação direta com rota sobrevivente, algo de Wyliam permanece lá, devolução exige presença, coleção por dentro, Luiza filha/dríade, 12 pixies, mudança, correio dimensional.
+
+## Capítulo 9
 Ainda não iniciado.
 
-**Ponto de partida:** manhã da saída da ilha; coordenadas recebidas da rota sobrevivente.
+**Ponto de partida:** manhã na casa nova; a semana concedida à entidade terminou e o trio está pronto para ir às coordenadas desconhecidas.
 
 ---
 
