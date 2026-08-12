@@ -1,185 +1,165 @@
 # Estado Atual da Aventura
 
 ## Situação
-O **Capítulo 6 — Sem Sangue e Limpo** foi concluído.
+O **Capítulo 7 — Uma Semana Sem Salvar o Mundo** foi concluído.
 
-Wyliam concluiu a investigação da infraestrutura de apagamento, implantou e ativou uma cascata ontológica capaz de devolver referências antes de fazer a rede apagar a si mesma, desapareceu por cerca de três dias e retornou reconstruído pelas âncoras de alma com Wanda e Ravena.
+Wyliam acordou após cerca de dois dias de recuperação do Paradoxo causado por ter parado o tempo do mundo inteiro. Wanda e Ravena permaneceram próximas durante a recuperação, e o vínculo de alma continuou estável.
 
-Depois do retorno, explicou o funcionamento de seu segundo Paradoxo e revelou que os vínculos de 30% de alma com Wanda e Ravena foram criados por um feitiço antigo equivalente a **casamento das almas**. Wanda e Ravena receberam oportunidade real de revogação e, após questionarem o atraso e o medo de Wyliam, **aceitaram explicitamente** manter o vínculo.
+Depois de discutir o significado do casamento das almas, o conceito de nó de realidade e a escolha de permanecer definitivamente neste mundo, Wyliam confirmou o resultado da implosão ontológica no mundo alienígena e então passou uma semana inteira de férias com Wanda e Ravena numa ilha paradisíaca.
 
-No fim da cena, Wyliam sofreu novo retorno de Paradoxo por ter parado acidentalmente o tempo do mundo inteiro durante os segundos finais da decisão. Ele espera ficar aproximadamente dois dias em coma/recuperação.
+Durante as férias, a relação deixou de ser apenas possibilidade e foi escolhida conscientemente pelos três. Wanda e Ravena disseram que querem tentar uma relação real com Wyliam; a forma usada entre eles é simplesmente **“nós três”**.
+
+Na manhã da partida, a liderança alienígena chamou corretamente antes de abrir o canal mental e informou que a única rota de alta hierarquia sobrevivente da infraestrutura de apagamento finalmente se moveu. Ela enviou coordenadas para um mundo desconhecido e quatro conceitos:
+
+**ORIGEM. DEVOLUÇÃO. TESTEMUNHA. VENHA.**
+
+Esse é o gancho imediato da nova aventura.
 
 ## Protagonista — Wyliam D. Costa
 - Brasileiro de sua realidade de origem.
 - Mago **Gnose 10**, expulso de sua realidade após reação extrema de Paradoxo.
 - Experiência superior a um século; um demônio antigo afirma estar preso por Wyliam há cerca de 127 anos.
 - Aparência deliberadamente comum; prefere ser subestimado.
-- Curioso, irreverente, galanteador, provocador, pragmático e protetor à sua maneira.
-- Repete o padrão: compreender → adaptar → alterar.
-- Costuma chamar atos de salvamento de “pesquisa de campo”, “dados” ou “efeitos colaterais”, mas Wanda e Ravena já perceberam que ele repetidamente escolhe linhas de ação que salvam pessoas quando pode.
+- Curioso, irreverente, provocador, galanteador, pragmático e protetor à própria maneira.
+- Padrão recorrente: **compreender → adaptar → alterar**.
+- Costuma chamar salvamentos de “pesquisa de campo”, “dados” ou “efeitos colaterais”, embora Wanda e Ravena já reconheçam o padrão de ele se arriscar para salvar pessoas.
+- A palavra **“ferrado”** continua sendo marcador emocional específico para o vínculo com Wanda e Ravena.
+- Wyliam decidiu permanecer neste mundo por escolha; já não se considera apenas um visitante tentando encontrar caminho de volta.
 
-## Primeiro Paradoxo — impossibilidade de mentir
-- Wyliam **não consegue mentir deliberadamente**.
-- Pode omitir, desviar, ironizar, fazer piadas, usar meia verdade ou permanecer em silêncio.
-- Não é onisciente: pode estar errado ou trabalhar com informação incompleta.
-- Quando sabe com clareza o que sente/quer, não consegue convencer a si mesmo do contrário.
-- Isso sustenta sua regra interna de decisão: **“vários caminhos, mesmo resultado”**.
+## Paradoxos de Wyliam
+### Primeiro Paradoxo — impossibilidade de mentir deliberadamente
+- Wyliam não consegue afirmar conscientemente algo que sabe ser falso com intenção de enganar.
+- Pode omitir, ironizar, brincar, mudar de assunto, usar meia verdade ou permanecer em silêncio.
+- Pode estar enganado; a condição impede mentira consciente, não erro.
+- Também não consegue mentir honestamente para si mesmo sobre algo que sabe com clareza.
 
-## Segundo Paradoxo — inimizade com a Morte
-- Revelado no Capítulo 6.
-- Surgiu quando Wyliam atingiu o auge da magia e criou uma espécie de inimizade com a Morte de sua realidade.
-- Wyliam **não é fisicamente invulnerável** e sente dor normalmente.
-- Seu corpo-base é próximo ao humano comum, embora possa reforçar ossos, pele e músculos usando referências biológicas de espécies exóticas.
-- Se o corpo ainda pode funcionar, ele permanece vivo nele e o repara — costura, cura, reconstrução e tempo.
-- Se o corpo fica destruído demais, Wyliam aprendeu a desintegrar o restante e atravessar morte/abismo/planos/“burocracia” até reconstruir uma forma em algum ponto de retorno.
-- O limite real é a **alma**: sem alma/referência suficiente para formar um corpo, ele pode não voltar.
-- “Não morrer” não significa “não sentir”. Afogamento, fogo, gelo, esmagamento e reconstrução continuam doendo.
+### Segundo Paradoxo — inimizade com a Morte
+- Criado quando Wyliam atingiu o auge da magia em sua realidade de origem.
+- Wyliam não é fisicamente invulnerável e sente dor normalmente.
+- Se o corpo ainda pode funcionar, ele o mantém vivo e o reconstrói.
+- Se o corpo é destruído demais, pode eliminar o restante e atravessar morte/abismo/planos/“burocracia” até reconstruir uma forma em outro ponto.
+- O limite real é a **alma**: sem uma parcela/referência suficiente para formar um corpo, ele pode não voltar.
+- O corpo-base é próximo ao humano comum, embora Wyliam tenha aprendido a reforçar ossos, pele e músculos usando modelos de espécies exóticas.
 
-## Corpo e cicatrizes
-- A aparência de corpo quase sem marcas é uma apresentação/ilusão discreta.
-- Sem ela, Wyliam possui muitas cicatrizes de dentes, garras, cortes, queimaduras, perfurações e reconstruções.
-- Histórias conhecidas:
-  - lobisomem que quase dividiu seu corpo;
-  - chupa-cabras numa aldeia após desaparecimento de crianças;
-  - larvas de energia planar depois de ajudar uma criatura extradimensional;
-  - amor de infância morto em acidente: Wyliam trouxe o corpo de volta sem a alma, o corpo virou zumbi e ele precisou matá-lo; depois levou meses para conseguir um anjo que encaminhasse a alma;
-  - **Balrog de cerca de seis metros**, senhor ligado aos Nove Infernos, que o acertou com um machado durante pesquisa sobre súcubos. O Balrog permanece na coleção.
+## Âncora de alma / casamento das almas
+Distribuição atual:
+- **40% Wyliam**;
+- **30% Wanda**;
+- **30% Ravena**.
 
-## Wanda e Ravena — relação atual
-### Estado emocional
-- A atração já não é subtexto.
-- Wyliam admitiu claramente que quer uma relação com as duas e que sempre soube sua própria resposta.
-- A palavra **“ferrado”** é marcador emocional específico: significa estar comprometido com um desejo/resultado que não consegue negar nem abandonar, mesmo sabendo do preço.
-- Wyliam afirma que Wanda e Ravena sempre são livres; ele é quem “não consegue escapar de si mesmo”.
-- Se uma delas fizer uma escolha realmente livre que ele odeie, Wyliam afirma que vai parar e respeitar, mesmo que não suporte emocionalmente.
-- Se a decisão vier de medo, coerção ou influência externa, ele não a considera escolha livre e pretende intervir.
-- Wanda e Ravena continuam autônomas, críticas e capazes de discordar dele.
+Regras consolidadas:
+- A alma de Wyliam é muito maior que a de uma pessoa comum.
+- Cerca de **30%** é suficiente para formar um corpo espiritual funcional separado.
+- Enquanto todos estão no mesmo plano, Wyliam mantém acesso à força do conjunto.
+- Se uma parcela de 30% atravessar para outro plano com Wanda ou Ravena, pode tornar-se uma vida separada de Wyliam, sem consciência contínua compartilhada com o restante.
+- O 1% dado anteriormente a Sael era apenas empréstimo temporário e já retornou automaticamente.
+- O vínculo de Wanda e Ravena foi criado por um feitiço muito antigo cuja tradução aproximada é **casamento das almas**.
+- O vínculo não tem valor jurídico; tem valor pessoal, espiritual, familiar e ontológico.
+- Wanda e Ravena tiveram janela real de revogação e **aceitaram explicitamente** manter o vínculo.
+- O casamento das almas não cria consentimento automático para sexo, magia íntima, alterações corporais ou outras decisões futuras.
+- Se Wanda ou Ravena morrerem e escolherem livremente não voltar, Wyliam afirma que não pretende forçá-las a ressuscitar; a parcela ligada a cada uma pode acompanhá-la, mesmo ao custo de parte permanente da força/imortalidade dele.
+- Se a decisão estiver sendo causada por medo, coerção ou influência externa, Wyliam não a considera escolha livre.
 
-### Noite comum antes da operação final
-- Os três foram a uma casa noturna de pessoas comuns.
-- Houve bebida, comida, brincadeiras e dança.
-- Wanda aceitou proximidade física durante a dança; Ravena também permaneceu próxima e segurou os dedos de Wyliam em alguns momentos.
-- Depois dormiram os três na mesma cama, **vestidos**, com Wyliam no meio, Wanda de um lado e Ravena do outro.
-- Não houve sexo.
-- A manhã seguinte foi tranquila, íntima e brincalhona.
+## Wanda, Ravena e Wyliam — relação atual
+- A relação agora é conscientemente escolhida pelos três e descrita simplesmente como **“nós três”**.
+- Wanda e Ravena disseram durante as férias que querem tentar uma relação real com Wyliam.
+- O casamento das almas foi explicitamente separado da decisão romântica; ninguém trata o vínculo como obrigação afetiva.
+- Houve avanço de intimidade voluntária: mãos dadas, beijos, abraços, sono compartilhado e maior conforto físico.
+- Quando Wanda disse “hoje não” num momento em que a intimidade poderia avançar, Wyliam aceitou sem resistência.
+- Na última noite das férias houve intimidade maior, mas os detalhes permanecem privados; o importante é que ninguém demonstrou arrependimento e os três acordaram juntos por escolha.
+- Wanda permanece intensa, brincalhona e capaz de confrontar Wyliam diretamente.
+- Ravena permanece reservada, observadora, autônoma e de humor seco; reserva não significa frieza.
+- As duas continuam independentes e capazes de discordar, impor limites e agir por conta própria.
+- Em cenas de diálogo, manter blocos curtos para permitir resposta do jogador.
 
-## Âncora de alma — estado atual
-- Distribuição atual:
-  - **40% Wyliam**;
-  - **30% Wanda**;
-  - **30% Ravena**.
-- O 1% que foi temporariamente emprestado a Sael já retornou sozinho para Wyliam.
-- A alma de Wyliam é muito maior que a normal; **30% é suficiente para formar um corpo espiritual funcional separado**.
-- Enquanto todos estão no mesmo plano, Wyliam continua com acesso à força do conjunto.
-- Se uma parcela de 30% acompanhar Wanda ou Ravena para outro plano, ela pode tornar-se uma vida separada. As duas vidas não compartilham consciência contínua.
-- Wyliam afirma que saberia que a outra parte ainda existe porque não consegue mentir para si mesmo sobre uma certeza dessa natureza.
-- Se Wanda ou Ravena morrerem e escolherem livremente não voltar, Wyliam não pretende forçá-las a ressuscitar. A parcela correspondente pode acompanhá-las, mesmo ao custo de parte permanente de sua imortalidade/poder.
+## Consentimento — regra permanente
+- Surpresa ou ausência de resistência **não equivalem a consentimento**.
+- Essa regra já foi estabelecida por Wanda e Ravena e reconhecida por Wyliam.
+- Magias íntimas, vínculos de alma, alterações corporais e atos físicos relevantes devem ser explicados/perguntados quando houver tempo real para isso.
+- Durante as férias, o experimento de roupa de cama foi feito com autorização, amostras separadas e ninguém vestindo o material durante os testes.
+- A brincadeira da coleira também foi explicitamente consentida antes.
 
-## Casamento das almas — vínculo permanente atual
-- Revelado no Capítulo 6 que o vínculo de Wanda e Ravena **não era o mesmo contrato demoníaco** mencionado anteriormente.
-- Durante os beijos anteriores, Wyliam utilizou um feitiço muito mais antigo cuja tradução aproximada é **“casamento das almas”**.
-- Não possui valor jurídico; possui valor pessoal, espiritual e ontológico.
-- Cria pertencimento familiar suficiente para servir como âncora completa.
-- O vínculo tinha janela de revogação de **cinco dias**.
-- Wyliam só mostrou o feitiço quando faltavam cerca de dois minutos para o prazo terminar.
-- Wanda e Ravena criticaram o atraso. Wyliam admitiu que esperou por **medo de ouvir uma recusa** e por medo de perder controle sobre o resultado.
-- A última cláusula era: **“SE NÃO ACEITO, REVOGA-SE.”**
-- Wyliam não alterou a cláusula nem impediu a revogação.
-- Nos segundos finais, Wanda declarou **“Eu aceito.”**
-- Ravena declarou **“Eu aceito porque quero.”**
-- O prazo terminou e nenhum vínculo foi revogado.
-- Portanto, Wanda e Ravena **aceitaram conscientemente** o casamento das almas.
-- Esse vínculo não elimina limites de consentimento em nenhuma outra situação e não vale como consentimento automático para futuros atos físicos ou mágicos.
-
-## Consentimento — regra consolidada
-- O primeiro beijo de surpresa usado na entrada do setor foi posteriormente reconhecido como **magicamente desnecessário** e pessoalmente desejado por Wyliam.
-- Wanda e Ravena rejeitaram corretamente a lógica “não resistiu = consentiu”.
-- Wyliam reconheceu o erro.
-- Depois de retornar da implosão ontológica, beijou as duas novamente; desta vez ambas perceberam a intenção e não recuaram.
-- Para alterações íntimas, vínculos de alma ou mudanças semelhantes, explicação e consentimento explícito continuam sendo referência quando houver oportunidade real de perguntar.
-
-## Sael e sua cidade
-- Sael é visitante de outra realidade cuja cidade está sendo removida das relações do mundo.
-- A cidade existe fisicamente, mas mapas, rotas, registros e memórias deixam de reconhecê-la.
-- Wyliam deu a Sael **1% da própria alma**, com consentimento explícito, como referência temporária. Esse 1% já voltou para ele.
-- O sistema da cidade é da mesma família conceitual do apagamento alienígena, mas diferente: ele **verifica inconsistências antes de apagar**.
-- Wyliam, Wanda e Ravena entraram num prédio central onde linhas de relação convergiam.
-- Wyliam desviou a verificação para si enquanto Wanda e Ravena continham as defesas.
-- Sem revelar às duas, Wyliam implantou pequenas rotinas distribuídas na infraestrutura.
-- Depois encenou uma retirada/derrota sem mentir, fazendo a máquina acreditar que o havia expulsado.
-
-## Implosão da infraestrutura de apagamento
-- Wyliam vinha preparando desde a caverna do primeiro dia um ataque distribuído usando:
-  - amortecimento;
-  - âncoras;
-  - similaridade;
-  - estudo dos nós;
-  - conexão pela rede da liderança alienígena;
-  - códigos discretos inseridos em pontos diferentes.
-- Wanda e Ravena **não sabiam do plano completo** até o momento em que Wyliam decidiu ativá-lo.
-- Para elas e para a máquina, o plano aparente era invadir e tentar desligar um nó forte.
-- Quando o nó revelou uma rota superior, Wyliam terminou a preparação.
-- A cascata implantada executou primeiro **DEVOLVER REFERÊNCIAS** e depois fez a infraestrutura apagar a si mesma recursivamente.
-- O grande apagou o enorme; o enorme apagou o médio; o médio apagou o pequeno.
-- Antes de desaparecerem, nós devolveram nomes, rotas, cidades, pessoas, registros e relações que ainda podiam ser recuperados.
-- O resultado global completo ainda precisa ser verificado, mas grande parte da infraestrutura hostil perdeu capacidade operacional.
-
-## Desaparecimento e retorno de Wyliam
-- Wyliam usou a si mesmo como detonador/âncora da cascata.
-- Desapareceu sem ferimento aberto e sem sangue, cumprindo literalmente a promessa “sem sangue e limpo”.
-- Ficou ausente por cerca de **três dias**.
-- Wanda e Ravena continuaram percebendo pelas âncoras que ele ainda existia.
-- A referência foi se aproximando até ele reconstruir-se perto delas.
-- Voltou **completamente nu**, vivo, sem lesões visíveis, mas em dor extrema.
-- Descreveu a experiência como “moedor de lixo, depois moedor de carne, depois moedor de osso”.
-
-## Liderança alienígena (“rainha”)
+## Conexão com a liderança alienígena (“rainha”)
 - “Rainha” continua sendo apelido de Wyliam; ela não é monarca.
-- É um centro de decisão/continuidade ligado à rede orgânica.
-- A rede orgânica **não deve ser confundida automaticamente** com a infraestrutura hostil de apagamento.
-- A Chave foi devolvida intacta e reintegrada sem ativação indevida.
-- A liderança revelou involuntariamente informação sobre o Balrog que Wyliam nunca havia contado, indicando vazamento de dados ainda inexplicado.
-- Teste posterior confirmou que Wyliam consegue **fechar a conexão**: quando fecha, ela sabe que o nó existe, mas não consegue transmitir conteúdo.
+- É centro de decisão/continuidade de uma rede orgânica.
+- A conexão com Wyliam é bidirecional, mas pode ser fechada por ele.
+- Nova etiqueta definida: **ela chama/bate primeiro; Wyliam decide se atende**.
+- A liderança respeitou essa regra ao final das férias.
+- O antigo vazamento de informação pelo nó ainda não foi plenamente explicado.
 
-## Daniel Mercer, Emily e Michael Reeves
-- Daniel Mercer continua xerife humano comum de Millhaven.
-- Emily Mercer é filha dele e fotógrafa.
-- Michael Reeves, amigo/colega de Emily, morreu drenado no galpão do Capítulo 1.
-- Emily já sabia da morte e exigira que o corpo não fosse abandonado.
-- Wyliam preservou Michael e, no Capítulo 6, devolveu o corpo a Daniel Mercer, cumprindo a promessa.
+## Mundo alienígena — situação atual
+- Comida: estável o suficiente.
+- Água: disponível.
+- Abrigo: setores principais seguros.
+- Fazendas/organismos produtores de alimento: funcionando, ainda abaixo da capacidade ideal, mas suficientes para sustentar os grupos ligados à rede sem necessidade imediata de caça humana.
+- A Chave foi devolvida intacta e reintegrada corretamente.
+- A infraestrutura observável de apagamento perdeu capacidade de executar apagamento coordenado em larga escala.
+- Muitas referências retornaram: pessoas, nomes, rotas, registros, setores e relações.
+- Nem tudo foi recuperado perfeitamente e não há garantia de que toda a infraestrutura hostil tenha sido destruída.
 
-## Alimentação alienígena
-- A espécie alienígena não precisa biologicamente de humanos.
-- Sua antiga infraestrutura cultivava organismos produtores de alimento com vitalidade regenerativa e estados psíquicos simples.
-- Dezesseis unidades foram restauradas em algum grau; três continuaram instáveis no ponto em que foram testadas.
-- A fome imediata dos refugiados diminuiu e humanos deixaram de ser necessidade alimentar naquele setor.
-- Facções dissidentes ainda podem escolher predar por esporte ou conveniência; Wyliam distingue isso de fome/necessidade.
+## A rota sobrevivente
+- Uma única rota de alta hierarquia sobreviveu intacta à implosão observável.
+- Inicialmente ela apenas esperava.
+- Ao fim das férias, ela **se moveu**.
+- Não parece estar tentando reconstruir a rede de apagamento.
+- Enviou coordenadas para um mundo desconhecido.
+- A mensagem associada contém quatro conceitos traduzíveis:
+  - **ORIGEM**
+  - **DEVOLUÇÃO**
+  - **TESTEMUNHA**
+  - **VENHA**
+- Não se sabe ainda quem ou o que enviou a mensagem, se é aliado, sobrevivente, criador da rede ou armadilha.
 
-## Morfeu / Sonhar / Hidra Fantasma
-- Morfeu falou pessoalmente com Wyliam no Sonhar.
-- Forneceu voluntariamente pequena amostra de medo condensado para pesquisa alimentar.
-- Wyliam possui uma Hidra Fantasma congelada em cristal, capaz de devorar existência/memória e deixar incoerências.
-- A ressonância dela ajudou a localizar o primeiro nó ontológico.
+## Sael
+- Mulher de outra realidade ligada ao fenômeno de apagamento.
+- Sua cidade existia fisicamente, mas estava sendo removida de mapas, rotas, registros e memórias.
+- Wyliam usou Sael e a cidade como parte da análise comparativa entre arquiteturas de apagamento.
+- Deu a ela 1% da alma com consentimento explícito como referência temporária; esse 1% já retornou.
+- A cidade de Sael foi uma das bases para as rotinas distribuídas que mais tarde participaram da implosão da infraestrutura.
 
-## Coleção / recursos relevantes
-- Hidra Fantasma congelada em cristal.
-- Demônio antigo preso em cristal.
-- Balrog/senhor infernal de cerca de seis metros na coleção.
-- Servo/invasor capturado e cristalizado.
-- Amostra de medo condensado de Morfeu.
-- A Chave **não está mais com Wyliam**; foi devolvida à liderança alienígena.
+## Resultado da implosão ontológica
+- Wyliam implantou rotinas discretas em diferentes pontos da infraestrutura enquanto todos acreditavam que ele apenas tentava invadir/desligar nós.
+- A ativação final fez a rede **devolver referências antes de apagar**.
+- Em seguida, os nós passaram a apagar a própria capacidade de continuar o processo, numa cascata recursiva.
+- Wyliam usou a si mesmo como detonador/referência da cascata.
+- Desapareceu por cerca de três dias e retornou reconstruído pelas âncoras de Wanda e Ravena.
+- O retorno foi extremamente doloroso, embora sem ferimentos visíveis e sem sangue no momento da reaparição.
 
-## Condição física atual
-- Wyliam acabou de sofrer retorno de Paradoxo por parar acidentalmente o **tempo do mundo inteiro** durante a decisão do casamento das almas.
-- Sintoma inicial: sangramento nasal e fraqueza crescente.
-- Ele estima aproximadamente **dois dias de coma/recuperação**.
-- Wanda e Ravena estão com ele e o seguraram quando começou a perder as forças.
+## Revelações de passado no Capítulo 7
+### Plax-13 e a contenção demoníaca
+- Wyliam já captou “fundos de pesquisa” por meios ilegais ou não convencionais.
+- Em Plax-13, retirou grande quantidade de recursos de cofres de um planeta hostil.
+- Usou esses recursos para pagar uma barganha demoníaca extremamente cara e obter **outro demônio**.
+- Esse demônio foi usado como parte de uma contenção para manter fechada uma porta muito maior.
+- Atrás da porta existe uma entidade que Wyliam comparou a “Trigon azul com barba”.
+- A contenção deve durar por um período enorme, descrito como muitas vidas da entidade presa.
+- O demônio usado como parte da contenção não sabia que morreria/seria consumido pelo processo.
+- O pagamento envolvido sabia do preço.
+- Wyliam nunca perguntou o nome da pessoa sacrificada; descreve-a como vítima das circunstâncias.
+- Ainda chama o ato de “sacrifício por um bem maior”, mas admite não acreditar completamente na própria justificativa.
+- Um de seus braços foi arrancado naquele episódio/período e reconstruído meses depois.
+- Se pudesse repetir hoje com mais poder, controle e experiência, afirma que tentaria ser ele próprio a fechadura.
+- Essa história explica parcialmente por que não condenou automaticamente os aliens que usavam humanos como contenção: reconheceu uma escolha moralmente semelhante no próprio passado, embora não aprovasse a prática.
 
-## Planos imediatos
-- Primeiro: Wyliam precisa atravessar o período de recuperação/coma.
-- Depois: verificar o resultado global da implosão da infraestrutura de apagamento.
-- Se o problema estiver realmente encerrado ou suficientemente controlado, o plano dos três é **tirar férias numa ilha paradisíaca**, idealmente sem aliens, demônios ou servidores ontológicos.
-- Existe uma piada/possível experimento futuro sobre roupa de cama encantada para dissolver roupas; qualquer teste envolvendo outras pessoas continua sujeito a consentimento explícito.
+## Férias — fatos consolidados
+- Wyliam, Wanda e Ravena passaram **sete dias** numa ilha paradisíaca.
+- Não houve crise mundial durante a semana.
+- O trio fez praia, comida, bebida, brincadeiras e descanso real.
+- Testaram de forma controlada um encanto para roupa de cama capaz de dissolver tecido-alvo; a terceira versão funcionou.
+- A relação romântica foi assumida pelos três durante uma conversa na praia.
+- A piada antiga da coleira virou uma brincadeira íntima consentida; Wanda colocou uma coleira preta simples em Wyliam e Ravena tirou uma foto.
+- Wyliam descobriu que consegue ficar uma semana sem salvar cidade nenhuma e gostou mais disso do que esperava.
+
+## Outros personagens/recursos ainda relevantes
+- Daniel Mercer: xerife de Millhaven.
+- Emily Mercer: filha do xerife; já sabia da morte de Michael desde o Capítulo 1.
+- Michael Reeves: corpo devolvido a Daniel Mercer, promessa cumprida.
+- Morfeu: forneceu amostra de medo condensado voluntariamente; princípio investigativo de consequências sem causa continua relevante.
+- Hidra Fantasma: permanece na coleção, congelada em cristal/frasco.
+- Balrog de cerca de seis metros: permanece na coleção.
+- Demônio antigo preso em cristal: permanece na coleção.
+- Amostra de medo condensado: permanece como recurso.
+- A “coleção” de Wyliam funciona tanto como coleção quanto como contenção de emergência.
 
 ## Capítulos concluídos
 1. **Capítulo 1 — O Lugar Errado** (`livro/capitulo-01.md`).
@@ -188,18 +168,19 @@ No fim da cena, Wyliam sofreu novo retorno de Paradoxo por ter parado acidentalm
 4. **Capítulo 4 — Cinco Pessoas e Nenhuma Decisão Sensata** (`livro/capitulo-04.md`).
 5. **Capítulo 5 — Vários Caminhos, Mesmo Resultado** (`livro/capitulo-05.md`).
 6. **Capítulo 6 — Sem Sangue e Limpo** (`livro/capitulo-06.md`).
+7. **Capítulo 7 — Uma Semana Sem Salvar o Mundo** (`livro/capitulo-07.md`).
 
 ## Ponto exato de retomada
-**Início do Capítulo 7.**
+**Início do Capítulo 8.**
 
-Wyliam acabou de perder as forças depois de revelar e confirmar o casamento das almas com Wanda e Ravena.
+É a manhã da partida da ilha paradisíaca, logo após uma semana de férias.
 
-Ele espera passar aproximadamente **dois dias em coma/recuperação** pelo Paradoxo de ter parado o tempo do mundo inteiro durante os segundos finais da decisão.
+Wyliam, Wanda e Ravena estão juntos e reconhecem conscientemente a relação como **“nós três”**.
 
-Wanda e Ravena **aceitaram explicitamente** o vínculo e continuam com 30% da alma de Wyliam cada. Wyliam mantém 40%.
+A liderança alienígena acabou de chamar pelo canal seguindo a nova regra de bater primeiro. Wyliam atendeu.
 
-A última fala de Wyliam foi uma piada de que as férias começariam com descanso. Wanda avisou que, quando ele acordasse, elas ainda estariam vinculadas a ele. Ravena acrescentou que ainda estariam bravas.
+A rota de alta hierarquia sobrevivente enviou coordenadas para um mundo desconhecido e a mensagem:
 
-A infraestrutura de apagamento sofreu implosão distribuída e devolveu muitas referências antes de se autodestruir, mas o resultado global completo ainda precisa ser verificado.
+**ORIGEM. DEVOLUÇÃO. TESTEMUNHA. VENHA.**
 
-A próxima cena pode começar durante o coma/recuperação ou diretamente no despertar, conforme a ação do jogador.
+A próxima ação pertence a Wyliam.
