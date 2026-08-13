@@ -42,10 +42,15 @@ Use este arquivo para localizar rapidamente onde um fato antigo aconteceu. Os ca
 
 **Tags:** casa própria, identidade civil, ouro, noivado, três anéis, artefatos, Rainha como amiga, livro da rede, ligação direta com rota sobrevivente, algo de Wyliam permanece lá, devolução exige presença, coleção por dentro, Luiza filha/dríade, 12 pixies, mudança, correio dimensional.
 
-## Capítulo 9
+## Capítulo 9 — O Que Estava Faltando
+`livro/capitulo-09.md`
+
+**Tags:** correio dimensional, máquina planetária, devolução da Unidade de Persistência de Referência, substituição funcional de identidade/continuidade/retorno, marca cinzenta, conexão com a Rainha, Fonte perdida, reserva de poder bruto, Sonhar, Morfeu/Soneca, medo devolvido, Fonte reencontrada no sonho, três freios Wanda/Ravena/Luiza, porão ampliado, biblioteca, forja, alquimia, âncora de porta, quarto do trio, Luiza estudando e vida social, primeira visita.
+
+## Capítulo 10
 Ainda não iniciado.
 
-**Ponto de partida:** manhã na casa nova; a semana concedida à entidade terminou e o trio está pronto para ir às coordenadas desconhecidas.
+**Ponto de partida:** a primeira visita social chegou à nova casa; um carro parou na propriedade e a campainha acabou de tocar.
 
 ---
 
