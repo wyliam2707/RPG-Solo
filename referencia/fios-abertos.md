@@ -2,57 +2,87 @@
 
 Este arquivo contém **somente assuntos ainda não encerrados**. Quando algo for resolvido, remover daqui e deixar o registro histórico no capítulo correspondente.
 
-## Prioridade imediata — início do Capítulo 9
+## Prioridade imediata — início do Capítulo 10
 
-A única rota de alta hierarquia sobrevivente da infraestrutura de apagamento mantém um destino desconhecido ativo.
+A primeira visita social chegou à nova casa.
 
-A mensagem inicial foi:
+- Wanda e Ravena passaram cerca de um mês afastadas de amigos/pessoas próximas.
+- Um carro acabou de parar na propriedade.
+- A campainha tocou.
+- O trio combinou usar apenas verdades simples, sem despejar toda a biografia sobrenatural de uma vez.
+- Reações externas ao noivado rápido, à convivência dos três e à presença de Luiza ainda não foram exploradas.
 
-**ORIGEM. DEVOLUÇÃO. TESTEMUNHA. VENHA.**
+## A Fonte perdida de Wyliam
 
-Uma conexão limitada posterior esclareceu parcialmente o convite.
+No Capítulo 9 foi descoberto que, durante a travessia causada pelo Paradoxo original, Wyliam perdeu uma estrutura esférica ligada ao coração/identidade que o sistema antigo classificou como **FONTE**.
 
-A entidade do outro lado:
+Fatos confirmados:
 
-- conhece o nome de Wyliam;
-- declarou **TESTEMUNHA PRESENTE**;
-- declarou **ORIGEM RECONHECIDA**;
-- afirma que **algo de Wyliam permanece lá**;
-- afirma que **algo deles permanece com Wyliam**;
-- diz que a devolução exige presença física;
-- permite que Wyliam leve testemunhas;
-- negou que o encontro seja vingança pela destruição da infraestrutura;
-- afirmou que Wyliam não será julgado pela destruição;
-- disse que o assunto envolve **o que permaneceu depois**.
-
-A entidade aceitou esperar uma semana enquanto o trio concluía a mudança. A semana terminou.
+- não é a alma;
+- não é órgão comum;
+- é ligada a energia e magia;
+- funcionava como grande reserva/fonte de poder bruto;
+- técnica, experiência e processamento de Wyliam permaneceram;
+- a reserva energética atual é apenas uma **fração** do registro antigo;
+- a Fonte não foi destruída;
+- existe uma conexão externa antiga ainda funcional;
+- pelo caminho atual apenas um fluxo pequeno atravessa por causa de distância/interferência;
+- no Sonhar, Wyliam reencontrou a Fonte e ela o reconheceu;
+- a Fonte demonstra reação/orientação suficiente para não parecer completamente inerte;
+- depois do reencontro, ela começou a pressionar do outro lado da prisão/ruptura que a separa dele.
 
 Ainda não se sabe:
 
-- quem ou o que é a entidade;
-- o significado exato de “origem”;
-- o que de Wyliam permaneceu naquele mundo;
-- o que deles permanece com Wyliam;
-- quem ou o que é a testemunha;
-- por que essa rota sobreviveu intacta;
-- se o encontro é seguro apesar da negação de vingança.
+- onde a Fonte está em termos físicos/metafísicos fora do Sonhar;
+- qual sua origem completa;
+- se possui consciência propriamente dita ou apenas reconhecimento/orientação autônoma;
+- como será a reintegração;
+- quanto poder bruto retornará e em que ritmo;
+- o que Wyliam se tornará ao reunir a disciplina adquirida na escassez com a potência antiga.
 
-## Infraestrutura de apagamento
+**Regra de autoria:** não definir automaticamente a natureza/origem completa da Fonte. O jogador declarou que essa parte será decidida por ele.
 
-- A infraestrutura observável perdeu capacidade de apagamento coordenado em larga escala.
-- Muitas referências foram devolvidas antes da autodestruição dos nós.
-- Não existe garantia de que **toda** a infraestrutura tenha sido destruída.
-- Regiões fora do alcance da liderança alienígena podem conter nós, arquivos, sobreviventes ou arquiteturas relacionadas.
-- Recuperações não foram perfeitas: podem existir memórias, pessoas, lugares ou relações devolvidas de forma incompleta.
+## Marca cinzenta / Rainha
+
+Uma assinatura cinzenta existe no Wyliam atual e não aparece no registro de sua chegada.
+
+- começa conceitualmente na base do cérebro;
+- desce pela estrutura até o coração;
+- não pertence à arquitetura antiga;
+- não parece infecção, dreno ou dominação;
+- reage fortemente quando o canal com a Rainha/rede orgânica é aberto;
+- a correlação pode explicar o antigo vazamento de informação, mas isso **não está provado**.
+
+Ainda não se sabe:
+
+- quem criou a marca;
+- quando surgiu exatamente;
+- qual sua função;
+- se a Rainha sabe que ela existe;
+- se é causa, consequência ou apenas meio do vazamento.
+
+## Arquitetura antiga / rotas sobreviventes
+
+A pendência principal de ORIGEM/DEVOLUÇÃO foi encerrada.
+
+A máquina planetária recuperou o núcleo puro da **Unidade de Persistência de Referência**. Wyliam construiu substituição funcional própria para identidade, continuidade e retorno. O sistema confirmou **DEVOLUÇÃO CONCLUÍDA** e não reivindica mais nada dele.
+
+Ainda podem existir:
+
+- outros pontos da arquitetura distribuída no planeta;
+- setores mortos, dormentes ou ativos;
+- registros antigos;
+- efeitos residuais da infraestrutura de apagamento em outras regiões.
+
+Nada disso exige ação imediata.
 
 ## Conexão com a liderança alienígena
 
 - A conexão orgânica entre Wyliam e a liderança é bidirecional e pode ser fechada.
 - Etiqueta atual: ela **chama/bate primeiro**; Wyliam escolhe se atende.
-- Wyliam declarou a Rainha como a pessoa mais próxima de um amigo naquele mundo alienígena.
+- Wyliam considera a Rainha a pessoa mais próxima de um amigo naquele mundo alienígena.
 - Pretende fechar a ponte permanente entre os mundos quando a situação estiver estável, mas continuar na rede.
-- Um vazamento antigo permitiu que ela soubesse detalhes do Balrog que Wyliam nunca forneceu conscientemente.
-- A origem desse vazamento ainda não foi explicada.
+- O vazamento antigo de informação continua sem explicação e agora pode estar relacionado à marca cinzenta.
 - A rede orgânica da liderança **não é** a infraestrutura hostil de apagamento.
 
 ## Mundo alienígena
@@ -73,44 +103,68 @@ A crise imediata de alimentação foi resolvida, mas permanecem questões de lon
 
 ## Trigon / família de Ravena
 
-- Wyliam já deixou claro que diferencia escolha livre de coerção.
+- Wyliam diferencia escolha livre de coerção.
 - Se Trigon tentar usar influência, medo ou poder para transformar uma decisão de Ravena em algo não livre, Wyliam tende a considerar intervenção direta.
-- Nenhum arco atual exige confronto imediato com Trigon; permanece um fio potencial de longo prazo.
-- Wyliam quer conhecer as pessoas que Wanda e Ravena consideram família; isso pode trazer esse eixo social ao primeiro plano futuramente.
+- Nenhum arco atual exige confronto imediato com Trigon.
+- A integração social do trio pode trazer família e vínculos antigos de Ravena para o primeiro plano futuramente.
 
 ## Plax-13 e a contenção antiga
 
 - Existe uma entidade extremamente perigosa que Wyliam comparou a “Trigon azul com barba”.
-- Ela permanece atrás de uma contenção planejada para durar um período enorme.
+- Ela permanece atrás de contenção planejada para durar um período enorme.
 - Um demônio foi usado como parte da contenção e não sabia que seria consumido/morto pelo processo.
 - Uma vítima humana/consciente foi usada como pagamento sabendo do preço; Wyliam nunca perguntou seu nome.
-- Wyliam ainda carrega culpa e ambivalência moral sobre a decisão.
-- Hoje ele acredita que, com mais poder e experiência, tentaria ser ele próprio a fechadura.
-- A contenção **não é um problema imediato**, mas é material válido para retorno futuro.
+- Wyliam carrega culpa e ambivalência moral sobre a decisão.
+- Hoje acredita que, com mais poder e experiência, tentaria ser ele próprio a fechadura.
+- A possível recuperação da Fonte pode tornar esse fio relevante no futuro, mas **não é imediato**.
 
 ## Paradoxos e Morte
 
 - Wyliam nunca definiu sua condição como imortalidade absoluta.
-- Sabe apenas que é muito difícil de encerrar e que sempre retornou até agora quando alma/referência suficientes permaneceram.
-- A natureza exata de sua inimizade com a Morte de origem ainda pode render consequências futuras.
-- O evento completo que levou à expulsão original da realidade ainda não foi narrado em todos os detalhes.
+- É muito difícil de encerrar e sempre retornou até agora quando alma/referência suficientes permaneceram.
+- No Capítulo 9, retirou a dependência do componente alienígena puro e substituiu suas funções com estrutura própria.
+- A natureza exata de sua inimizade com a Morte original permanece aberta.
+- O evento completo que levou à expulsão de sua realidade ainda não foi narrado em todos os detalhes.
+
+## Três freios e barreiras
+
+Wyliam reconheceu que a volta da Fonte pode reunir potência antiga com experiência adquirida sob escassez.
+
+Para evitar que velhos padrões de imposição escalem sem controle, ele nomeou três pessoas como **freios**:
+
+- Wanda;
+- Ravena;
+- Luiza.
+
+Isso não as torna responsáveis por todas as decisões dele. A ideia é que tenham liberdade real para dizer “não”, interromper projetos perigosos e confrontá-lo quando necessário.
+
+Wyliam também pretende usar:
+
+- barreiras;
+- redundâncias;
+- múltiplas assinaturas;
+- travas de acesso;
+- contenção para artefatos/projetos;
+- sistemas de corte de emergência.
 
 ## Relação do trio — áreas naturalmente abertas
 
-- Agora estão **noivos** e morando juntos.
+- Estão **noivos** e morando juntos.
 - A relação continua recente apesar do compromisso formal.
-- Rotina doméstica, privacidade, tempo individual e integração social ainda estão em formação.
-- Wyliam quer conhecer amigos e pessoas que Wanda/Ravena consideram família.
-- Reações externas ao noivado rápido e ao formato do trio ainda não foram exploradas.
+- A casa e o porão criaram rotina doméstica própria.
+- Reações de amigos/família ao formato do trio ainda não foram exploradas.
 - A intimidade específica entre Wanda e Ravena pode crescer sem obrigação de se tornar sexual.
 - Continua aberto o conflito potencial entre cuidado e o hábito de Wyliam de esconder planos autodestrutivos.
 
 ## Casa, Luiza e pixies
 
-- A nova propriedade rural passou a ser o lar do trio.
-- Luiza terá acesso pela muda/tronco vinculado quando a conexão amadurecer.
-- Doze pixies foram autorizadas no jardim sob regras de limite territorial e segurança.
-- A convivência entre moradores humanos, espíritos, criaturas e visitantes pode gerar problemas domésticos futuros.
+- A nova propriedade rural é o lar do trio.
+- O porão possui biblioteca, oficina/forja, alquimia, âncora de porta e quarto do trio.
+- Luiza já consegue usar a âncora enquanto a muda amadurece.
+- Luiza pode estudar presencialmente na região se quiser e escolherá o que estudar.
+- Ela não deve se afastar mais de aproximadamente 50 km da árvore no estado atual.
+- Doze pixies vivem no jardim sob regras de limite territorial e segurança.
+- A convivência entre moradores, criaturas e visitantes pode gerar problemas domésticos futuros.
 
 ## Coleção — riscos potenciais
 
